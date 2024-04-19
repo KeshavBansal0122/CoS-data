@@ -1,0 +1,1 @@
+{"department": "Department of Electrical Engineering", "name": "ELL410 Multicore Systems", "description": "Motivation for muticores; Multithreading; Flynn\u2019s taxonomy; Stream processing (vectVLIW, GPU). Message passing; Shared memory; Cache coherence in multiprocessor Synchronisation; Interconnection networks; Benchmarks and advanced topics; Project.", "credits": "3 (3-0-0)"}
