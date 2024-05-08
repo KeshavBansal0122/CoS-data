@@ -74,7 +74,7 @@
     "name": "Querying and Mining Graph Data",
     "credits": "4 (3-0-2)",
     "department": "Yardi School of Artificial Intelligence",
-    "pre": "Pre-requisite(s): COL761 or with instructor's permission",
+    "pre": "COL761 or with instructor's permission",
     "overlap": "",
     "allocPref": "",
     "description": "Graph Structural properties; Basics of Spectral graph theory and random walks on graphs; Random graph models; Graph Generative Models; Queries and Index structures for graphs; Graph clustering and community detection; Social Network Analysis; Graph Mining; Graph Neural Networks."
@@ -92,7 +92,7 @@
   "AIL801": {
     "code": "AIL801",
     "name": "Introduction to the Mathematics of Machine Learning",
-    "credits": "3 (3-0-0) Overlaps with: MTL801",
+    "credits": "3 (3-0-0)",
     "department": "Yardi School of Artificial Intelligence",
     "pre": "",
     "overlap": "MTL801",
@@ -702,7 +702,7 @@
   "APL206": {
     "code": "APL206",
     "name": "Engineering Thermodynamics",
-    "credits": "2 (2-0-0) Overlaps with: MCL140",
+    "credits": "2 (2-0-0)",
     "department": "Department of Applied Mechanics",
     "pre": "",
     "overlap": "MCL140",
@@ -732,7 +732,7 @@
   "APL302": {
     "code": "APL302",
     "name": "Basics of Product Design",
-    "credits": "4 (3-0-2) Overlaps with: APL775",
+    "credits": "4 (3-0-2)",
     "department": "Department of Applied Mechanics",
     "pre": "",
     "overlap": "APL775",
@@ -1062,7 +1062,7 @@
   "APL707": {
     "code": "APL707",
     "name": "Integral Equations",
-    "credits": "3 (3-0-0) Overlaps with: MTL746",
+    "credits": "3 (3-0-0)",
     "department": "Department of Applied Mechanics",
     "pre": "",
     "overlap": "MTL746",
@@ -1204,7 +1204,7 @@
     "name": "Environmental Fluid Dynamics",
     "credits": "3 (3-0-0)",
     "department": "Department of Applied Mechanics",
-    "pre": "APLI05 / APL106 / APL107 / CLL231 or equivalent",
+    "pre": "APL105 / APL106 / APL107 / CLL231 or equivalent",
     "overlap": "ASL734, ASL823, ASL737",
     "allocPref": "",
     "description": "Course contents: Basic equations of motion in a rotating reference frame, stratification, Boussinesq and hydrostatic approximations, vorticity equation, geostrophic balance, thermal wind balance, Shallow-water equations, Surface and internal gravity waves, Kelvin- Helmholtz instability, thermal instability, barotropic and baroclinic instability, gravity currents, thermals and plumes, natural ventilation."
@@ -2002,7 +2002,7 @@
   "ASV892": {
     "code": "ASV892",
     "name": "An Introduction to Renewable Energy Meteorology",
-    "credits": "1 (1-0-0) Overlaps with: ASL760",
+    "credits": "1 (1-0-0)",
     "department": "Centre for Atmospheric Sciences",
     "pre": "",
     "overlap": "ASL760",
@@ -2062,7 +2062,7 @@
   "BBL133": {
     "code": "BBL133",
     "name": "Mass and Energy Balances in Biochemical Engineering",
-    "credits": "3 (3-0-0) Overlaps with: CLL111",
+    "credits": "3 (3-0-0)",
     "department": "Department of Biochemical Engineering and Biotechnology",
     "pre": "",
     "overlap": "CLL111",
@@ -4402,7 +4402,7 @@
   "CML696": {
     "code": "CML696",
     "name": "Physical Organic Chemistry",
-    "credits": "3 (3-0-0) Overlap with: CML743",
+    "credits": "3 (3-0-0)",
     "department": "Department of Chemistry",
     "pre": "",
     "overlap": "CML743",
@@ -4562,7 +4562,7 @@
   "CML743": {
     "code": "CML743",
     "name": "Physical Organic Chemistry Advanced",
-    "credits": "3 (3-0-0) Overlap with: CML696",
+    "credits": "3 (3-0-0)",
     "department": "Department of Chemistry",
     "pre": "",
     "overlap": "CML696",
@@ -4772,7 +4772,7 @@
   "COL202": {
     "code": "COL202",
     "name": "Discrete Mathematical Structures",
-    "credits": "4 (3-1-0) Overlaps with: MTL180",
+    "credits": "4 (3-1-0)",
     "department": "Department of Computer Science and Engineering",
     "pre": "",
     "overlap": "MTL180",
@@ -7042,7 +7042,7 @@
   "CVL461": {
     "code": "CVL461",
     "name": "Logistics and Freight Transport",
-    "credits": "3 (3-0-0) Overlaps with: SML843",
+    "credits": "3 (3-0-0)",
     "department": "Department of Civil Engineering",
     "pre": "CVL261 or Instructor’s permission",
     "overlap": "SML843",
@@ -10932,7 +10932,7 @@
   "ELL742": {
     "code": "ELL742",
     "name": "Introduction to MEMS Design",
-    "credits": "3 (3-0-0) Overlaps with: CRL726",
+    "credits": "3 (3-0-0)",
     "department": "Department of Electrical Engineering",
     "pre": "",
     "overlap": "CRL726",
@@ -11422,7 +11422,7 @@
   "ELL791": {
     "code": "ELL791",
     "name": "Neural Systems and Learning Machines",
-    "credits": "3 (3-0-2) Overlaps with: MTL720",
+    "credits": "3 (3-0-2)",
     "department": "Department of Electrical Engineering",
     "pre": "",
     "overlap": "MTL720",
@@ -12194,7 +12194,7 @@
     "name": "Power Engineering Laboratory",
     "credits": "1.5 (0-0-3)",
     "department": "Department of Electrical Engineering",
-    "pre": "ELP303",
+    "pre": "ELL303",
     "overlap": "",
     "allocPref": "",
     "description": "Experiments will be conducted on 3-phase alternators and transformers for measuring their sequence impedance. Directional, overcurrent and differential protection relays will be studied. Computer simulation for power flow, short circuit and stability studies of interconnected power systems. Numerical relays and synchrophasors will be introduced. FACTS devices will be experimented."
@@ -12932,7 +12932,7 @@
   "ESL350": {
     "code": "ESL350",
     "name": "Energy Conservation and Management",
-    "credits": "3 (3-0-0) Overlaps with: ESL720",
+    "credits": "3 (3-0-0)",
     "department": "Department of Energy Science and Engineering",
     "pre": "EC60 (for UG students)",
     "overlap": "ESL720",
@@ -16212,7 +16212,7 @@
   "HUL876": {
     "code": "HUL876",
     "name": "Ethnography: Theory, Practice and Critique",
-    "credits": "3 (3-0-0) Overlaps with: HSV771",
+    "credits": "3 (3-0-0)",
     "department": "Department of Humanities and Social Sciences",
     "pre": "",
     "overlap": "HSV771",
@@ -17322,7 +17322,7 @@
   "MCL364": {
     "code": "MCL364",
     "name": "Value Engineering",
-    "credits": "4 (3-0-2) Overlaps with: MEL671",
+    "credits": "4 (3-0-2)",
     "department": "Department of Mechanical Engineering",
     "pre": "",
     "overlap": "MEL671",
@@ -18722,7 +18722,7 @@
   "MLL102": {
     "code": "MLL102",
     "name": "Structure of Materials",
-    "credits": "3 (2-1-0) Overlaps with: MLL701",
+    "credits": "3 (2-1-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MLL701",
@@ -19112,7 +19112,7 @@
   "MLL722": {
     "code": "MLL722",
     "name": "Polymer Technology",
-    "credits": "3 (3-0-0) Overlaps with: MLL343",
+    "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MLL343",
@@ -19122,7 +19122,7 @@
   "MLL723": {
     "code": "MLL723",
     "name": "Polymer Characterization",
-    "credits": "3 (3-0-0) Overlaps with: MLL104",
+    "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MLL104",
@@ -19277,12 +19277,22 @@
     "pre": "",
     "overlap": "",
     "allocPref": "",
-    "description": "Overview of Nanostructures and Nanomaterials: Scaling laws, Dimensionality, Hybrid nanomaterials; Effect of size, structure, mechanism, and property on material performance; Synthesis of nanostructures: Bottom up and top down approaches, Thermodynamics of Nanomaterials: Configurational entropy and Gibbs free energy of nanocrystals; Surface reconstruction and reconfiguration.\n\nNanoelectronics: single electron phenomenon, Quantum transport of electrons, Electrical conductance through a single atom, nanowire, nanotubes; Single electron transistor; Molecular electronics. Photonic properties of nanomaterials: Surface plasmon resonance in metals, bandgap variation in semiconductors, optical tweezers, photonic crystals.\n\nNanomechanics: Nanomechanical oscillators using beams and atoms, Scanning probe microscopy, Nanomagnetism: Magnetic properties of small magnetic clusters, nanoparticles, Magnetoresistance, Spintronics, Superparamagnetism.\n\nMLL741 Biodegradable Polymeric Materials 3 Credits (3-0-0)\n\nPre-requisite(s): EC75\n\nConcept of biodegradation; mechanism of biodegradation; kinetics of biodegradation; methods to evaluate biodegradation; bioplastics, biodegradable polymers and their synthesis; biodegradable polymer blends and composites; technology and processing of biodegradable polymers; applications of biodegradable polymers."
+    "description": "Overview of Nanostructures and Nanomaterials: Scaling laws, Dimensionality, Hybrid nanomaterials; Effect of size, structure, mechanism, and property on material performance; Synthesis of nanostructures: Bottom up and top down approaches, Thermodynamics of Nanomaterials: Configurational entropy and Gibbs free energy of nanocrystals; Surface reconstruction and reconfiguration.\n\nNanoelectronics: single electron phenomenon, Quantum transport of electrons, Electrical conductance through a single atom, nanowire, nanotubes; Single electron transistor; Molecular electronics. Photonic properties of nanomaterials: Surface plasmon resonance in metals, bandgap variation in semiconductors, optical tweezers, photonic crystals.\n\nNanomechanics: Nanomechanical oscillators using beams and atoms, Scanning probe microscopy, Nanomagnetism: Magnetic properties of small magnetic clusters, nanoparticles, Magnetoresistance, Spintronics, Superparamagnetism."
+  },
+  "MLL741": {
+    "code": "MLL741",
+    "name": "Biodegradable Polymeric Materials",
+    "credits": "3 (3-0-0)",
+    "department": "Department of Materials Science and Engineering",
+    "pre": "EC75",
+    "overlap": "",
+    "allocPref": "",
+    "description": "Concept of biodegradation; mechanism of biodegradation; kinetics of biodegradation; methods to evaluate biodegradation; bioplastics, biodegradable polymers and their synthesis; biodegradable polymer blends and composites; technology and processing of biodegradable polymers; applications of biodegradable polymers."
   },
   "MLL742": {
     "code": "MLL742",
     "name": "Micro and Nano Fabrication in Materials Engineering",
-    "credits": "3 (3-0-0) Overlaps with: MCL331",
+    "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MCL331",
@@ -19334,10 +19344,10 @@
     "name": "Creep and Superplasticity of Materials",
     "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
-    "pre": "MLL101, MLL202, MLL251, PYL114 or some equivalent course in crystallography, APL104/APL105, APL108 is preferred for students from other departments, PYL701 or some introductory course in materials engineering for PG students. Phenomenology of creep, Microstructural considerations in metals, alloys, ceramics and composites, Creep mechanisms, Deformation mechanism maps, Phenomenology of superplasticity in metallic alloys, ceramics and nanophase materials, Commercial applications and considerations, Cavitation failure at elevated temperatures by the nucleation, growth and interlinkage of cavities. Sintering mechanisms.",
+    "pre": "MLL101, MLL202, MLL251, PYL114 or some equivalent course in crystallography, APL104/APL105, APL108 is preferred for students from other departments, PYL701 or some introductory course in materials engineering for PG students.",
     "overlap": "",
     "allocPref": "",
-    "description": ""
+    "description": "Phenomenology of creep, Microstructural considerations in metals, alloys, ceramics and composites, Creep mechanisms, Deformation mechanism maps, Phenomenology of superplasticity in metallic alloys, ceramics and nanophase materials, Commercial applications and considerations, Cavitation failure at elevated temperatures by the nucleation, growth and interlinkage of cavities. Sintering mechanisms."
   },
   "MLL760": {
     "code": "MLL760",
@@ -21322,7 +21332,7 @@
   "MTL102": {
     "code": "MTL102",
     "name": "Differential Equations",
-    "credits": "3 (3-0-0) Overlaps with: MTL260",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL260",
@@ -21352,7 +21362,7 @@
   "MTL105": {
     "code": "MTL105",
     "name": "Algebra",
-    "credits": "3 (3-0-0) Overlaps with: MTL501",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL501",
@@ -21362,7 +21372,7 @@
   "MTL106": {
     "code": "MTL106",
     "name": "Probability and Stochastic Processes",
-    "credits": "4 (3-1-0) Overlaps with: MTL108",
+    "credits": "4 (3-1-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL108",
@@ -21422,7 +21432,7 @@
   "MTL180": {
     "code": "MTL180",
     "name": "Discrete Mathematical Structures",
-    "credits": "4 (3-1-0) Overlaps with: COL202",
+    "credits": "4 (3-1-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "COL202",
@@ -21452,7 +21462,7 @@
   "MTL270": {
     "code": "MTL270",
     "name": "Measure Integral and Probability",
-    "credits": "3 (3-0-0) Overlaps with: MTL510",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL510",
@@ -21727,7 +21737,18 @@
     "pre": "",
     "overlap": "",
     "allocPref": "",
-    "description": "Finite fields: Construction and examples. Polynomials over finite fields, their factorization/irreducibility and their applications to coding theory. Combinatorial applications. Symmetric and Public key cryptosystems particularly on Elliptic curves. Combinatorial group theory: investigation of groups on computers, finitely presented groups, coset enumeration. Fundamental problem of combinatorial group theory. Coset enumeration, Nielsen transformations. Braid Group cryptography. Automorphism groups. Computational methods for determining automorphism groups of certain finite groups. Computations of characters and representations of finite groups. Computer algebra programs. Computations of units in rings and group rings. Calculations in Lie algebras.\n\nMTL730 Cryptography 3 Credits (3-0-0) Overlaps with: COL759\n\nApplying the corresponding algorithms programmes. (laboratory/\n\ndesign activities could also be included) Classical cryptosystems, Preview from number theory, Congruences and residue class rings, DES- security and generalizations, Prime number generation. Public Key Cryptosystems of RSA, Rabin, etc. their security and cryptanalysis.\n\nPrimality, factorization and quadratic sieve, efficiency of other factoring algorithms.\n\nFinite fields: Construction and examples. Diffie-Hellman key exchange. Discrete logarithm problem in general and on finite fields. Cryptosystems based on Discrete logarithm problem such as Massey- Omura cryptosystems. Algorithms For finding discrete logarithms, their analysis. Polynomials on finite fields and Their factorization/\n\nirreducibility and their application to coding theory.\n\nElliptic curves, Public key cryptosystems particularly on Elliptic curves. Problems of key exchange, discrete logarithms and the elliptic curve logarithm problem.\n\nImplementation of elliptic curve cryptosystems. Counting of points on Elliptic Curves over Galois Fields of order 2m. Other systems such as Hyper Elliptic Curves And cryptosystems based on them. Combinatorial group theory: investigation of groups on computers, finitely presented groups, coset enumeration. Fundamental problems of combinatorial group theory. Coset enumeration, Nielsen and Tietze transformations. Braid Group cryptography.\n\nCryptographic hash functions. Authentication, Digital Signatures, Identification, certification infrastructure and other applied aspects."
+    "description": "Finite fields: Construction and examples. Polynomials over finite fields, their factorization/irreducibility and their applications to coding theory. Combinatorial applications. Symmetric and Public key cryptosystems particularly on Elliptic curves. Combinatorial group theory: investigation of groups on computers, finitely presented groups, coset enumeration. Fundamental problem of combinatorial group theory. Coset enumeration, Nielsen transformations. Braid Group cryptography. Automorphism groups. Computational methods for determining automorphism groups of certain finite groups. Computations of characters and representations of finite groups. Computer algebra programs. Computations of units in rings and group rings. Calculations in Lie algebras."
+    
+  },
+  "MTL730": {
+    "code": "MTL730",
+    "name": "Cryptography",
+    "credits": "3 (3-0-0)",
+    "department": "Department of Mathematics",
+    "pre": "",
+    "overlap": "COL759",
+    "allocPref": "",
+    "description": "Applying the corresponding algorithms programmes. (laboratory/design activities could also be included) Classical cryptosystems, Preview from number theory, Congruences and residue class rings, DES- security and generalizations, Prime number generation. Public Key Cryptosystems of RSA, Rabin, etc. their security and cryptanalysis.\n\nPrimality, factorization and quadratic sieve, efficiency of other factoring algorithms.\n\nFinite fields: Construction and examples. Diffie-Hellman key exchange. Discrete logarithm problem in general and on finite fields. Cryptosystems based on Discrete logarithm problem such as Massey- Omura cryptosystems. Algorithms For finding discrete logarithms, their analysis. Polynomials on finite fields and Their factorization/\n\nirreducibility and their application to coding theory.\n\nElliptic curves, Public key cryptosystems particularly on Elliptic curves. Problems of key exchange, discrete logarithms and the elliptic curve logarithm problem.\n\nImplementation of elliptic curve cryptosystems. Counting of points on Elliptic Curves over Galois Fields of order 2m. Other systems such as Hyper Elliptic Curves And cryptosystems based on them. Combinatorial group theory: investigation of groups on computers, finitely presented groups, coset enumeration. Fundamental problems of combinatorial group theory. Coset enumeration, Nielsen and Tietze transformations. Braid Group cryptography.\n\nCryptographic hash functions. Authentication, Digital Signatures, Identification, certification infrastructure and other applied aspects."
   },
   "MTL731": {
     "code": "MTL731",
@@ -21772,7 +21793,7 @@
   "MTL735": {
     "code": "MTL735",
     "name": "Advanced Number Theory",
-    "credits": "3 (3-0-0) Overlaps with: MTL145",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL145",
@@ -21997,7 +22018,17 @@
     "pre": "MTL390/MTL601",
     "overlap": "",
     "allocPref": "",
-    "description": "Introduction to Multivariate data, Geometry of a sample, Mean and Covariance, Generalized Variance; Sample value of Linear combination of variables; Multivariate Normal Distribution, and its properties, Sampling from a Multivariate Normal population, Sampling distribution and Large sample Behaviour of Mean and Covariance, Inference about Mean Vector, Hotelling’s T-square and Likelihood Ratio test, Confidence Region , Comparison of several Multivariate Populations, Multivariate Linear Regression Models, Inferences about regression models and parameters, Model checking, Principal Component Analysis, Introduction to Factor Analysis, Orthogonal Factor Models, Factor Rotation, Strategy for Factor Analysis; Canonical Correlation Analysis, Interpreting population by Canonical variables, Large Sample Inferences.\n\nMTL768 Graph Theory 3 Credits (3-0-0) Overlaps with: MTL776\n\nIntroduction to Graphs: Definition and basic concepts; Trees:\n\ncharacterizations, counting of minimum spanning tree; Paths and Distance in Graphs: Basic Definitions, center and median of a graph, activity digraph and critical path; Eulerian Graphs: Definition and Characterization; Hamiltonian Graphs: Necessary and sufficient conditions, Planar Graphs: properties, dual, genus of a graph; Graph Coloring: vertex coloring, chromatic polynomials, edge coloring, planar graph coloring; Matching and Factorizations: maximum matching in bipartite graphs, maximum matching in general graphs, Hall’s marriage theorem, factorization; Networks: The Max-flow min-cut theorem, connectivity and edge connectivity, Menger’s theorem; Graph and Matrices."
+    "description": "Introduction to Multivariate data, Geometry of a sample, Mean and Covariance, Generalized Variance; Sample value of Linear combination of variables; Multivariate Normal Distribution, and its properties, Sampling from a Multivariate Normal population, Sampling distribution and Large sample Behaviour of Mean and Covariance, Inference about Mean Vector, Hotelling’s T-square and Likelihood Ratio test, Confidence Region , Comparison of several Multivariate Populations, Multivariate Linear Regression Models, Inferences about regression models and parameters, Model checking, Principal Component Analysis, Introduction to Factor Analysis, Orthogonal Factor Models, Factor Rotation, Strategy for Factor Analysis; Canonical Correlation Analysis, Interpreting population by Canonical variables, Large Sample Inferences."
+  },
+  "MTL768": {
+    "code": "MTL768",
+    "name": "Graph Theory",
+    "credits": "3 (3-0-0)",
+    "department": "Department of Mathematics",
+    "pre": "COL106",
+    "overlap": "MTL776",
+    "allocPref": "",
+    "description": "Introduction to Graphs: Definition and basic concepts; Trees:\n\ncharacterizations, counting of minimum spanning tree; Paths and Distance in Graphs: Basic Definitions, center and median of a graph, activity digraph and critical path; Eulerian Graphs: Definition and Characterization; Hamiltonian Graphs: Necessary and sufficient conditions, Planar Graphs: properties, dual, genus of a graph; Graph Coloring: vertex coloring, chromatic polynomials, edge coloring, planar graph coloring; Matching and Factorizations: maximum matching in bipartite graphs, maximum matching in general graphs, Hall’s marriage theorem, factorization; Networks: The Max-flow min-cut theorem, connectivity and edge connectivity, Menger’s theorem; Graph and Matrices."
   },
   "MTL773": {
     "code": "MTL773",
@@ -22062,7 +22093,7 @@
   "MTL785": {
     "code": "MTL785",
     "name": "Natural Language Processing",
-    "credits": "3 (3-0-0) Overlaps with: COL772",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "COL772",
@@ -22187,7 +22218,17 @@
     "pre": "",
     "overlap": "",
     "allocPref": "",
-    "description": "The problem of ranking and selection, different approaches to the solution of problem. Indifference zone formulation : Ranking normal population in terms of means single and two stage procedures. Ranking normal population in terms of variances. Ranking binomial population-fixed sample size and multistage procedures, play the winner rules and vector at a time sampling. Ranking Gamma population with largest (smallest) scale parameter. Optimal properties of fixed subset size proceduresBayes, minimax and admissibilities properties, subset selection formulation : Decision theoretical formulation, best invariant rules. Restricted subset selection. Subset selection of normal population w.r.t. means and variances, selection of t-best. Subset selection in binomial and gamma populations. Comparison of population with a control. Normal and exponential populations.\n\nMTL856 Lie Algebras 3 Credits (3-0-0) Overlaps with: MTL756\n\nDefinitions and examples. Basic concepts. Solvable and Nilpotent Lie algebras, The Engel’s theorem, Lie’s theorem, Cartan’s criterion, Killing form, Finite dimensional semi-simple Lie algebras and their representation theory. The Weyl’s theorem. Representations of sl (2,C). Root space decomposition. Rationality properties. Root systems, The Weyl group. Isomorphism and conjugacy theorems (Cartan subalgebras, Borel subalgebras). Universal enveloping algebras, PBW theorem, Serre’s theorem. Representation theory and characters. Formulas of Weyl, Kostant and Steinberg. Introduction to infinite dimensional Lie algebras."
+    "description": "The problem of ranking and selection, different approaches to the solution of problem. Indifference zone formulation : Ranking normal population in terms of means single and two stage procedures. Ranking normal population in terms of variances. Ranking binomial population-fixed sample size and multistage procedures, play the winner rules and vector at a time sampling. Ranking Gamma population with largest (smallest) scale parameter. Optimal properties of fixed subset size proceduresBayes, minimax and admissibilities properties, subset selection formulation : Decision theoretical formulation, best invariant rules. Restricted subset selection. Subset selection of normal population w.r.t. means and variances, selection of t-best. Subset selection in binomial and gamma populations. Comparison of population with a control. Normal and exponential populations."
+  },
+  "MTL856": {
+    "code": "MTL856",
+    "name": "Lie Algebras",
+    "credits": "3 (3-0-0)",
+    "department": "Department of Mathematics",
+    "pre": "",
+    "overlap": "MTL756",
+    "allocPref": "",
+    "description": "Definitions and examples. Basic concepts. Solvable and Nilpotent Lie algebras, The Engel’s theorem, Lie’s theorem, Cartan’s criterion, Killing form, Finite dimensional semi-simple Lie algebras and their representation theory. The Weyl’s theorem. Representations of sl (2,C). Root space decomposition. Rationality properties. Root systems, The Weyl group. Isomorphism and conjugacy theorems (Cartan subalgebras, Borel subalgebras). Universal enveloping algebras, PBW theorem, Serre’s theorem. Representation theory and characters. Formulas of Weyl, Kostant and Steinberg. Introduction to infinite dimensional Lie algebras."
   },
   "MTL860": {
     "code": "MTL860",
@@ -23082,7 +23123,7 @@
   "PYL701": {
     "code": "PYL701",
     "name": "Physical Foundations of Materials Science",
-    "credits": "3 (3-0-0) Overlap with : PYL303",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL303",
@@ -23092,7 +23133,7 @@
   "PYL702": {
     "code": "PYL702",
     "name": "Physics of Semiconductor Devices",
-    "credits": "3 (3-0-0) Overlap with : PYL201",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL201",
@@ -23102,7 +23143,7 @@
   "PYL703": {
     "code": "PYL703",
     "name": "Electronic Properties of Materials",
-    "credits": "3 (3-0-0) Overlap with : PYL102",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL102",
@@ -23112,7 +23153,7 @@
   "PYL704": {
     "code": "PYL704",
     "name": "Science and Technology of Thin Films",
-    "credits": "3 (3-0-0) Overlap with : PYL307",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL307",
@@ -23152,7 +23193,7 @@
   "PYL723": {
     "code": "PYL723",
     "name": "Vacuum Science and Cryogenics",
-    "credits": "3 (3-0-0) Overlap with : PYL301",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL301",
@@ -23252,7 +23293,7 @@
   "PYL742": {
     "code": "PYL742",
     "name": "General Relativity",
-    "credits": "3 (3-0-0) Overlaps with : PYL332",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL332",
@@ -23272,7 +23313,7 @@
   "PYL744": {
     "code": "PYL744",
     "name": "High Energy Physics",
-    "credits": "3 (3-0-0) Overlaps with : PYL433",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL433",
@@ -23392,7 +23433,7 @@
   "PYL757": {
     "code": "PYL757",
     "name": "Statistical and Quantum optics",
-    "credits": "3 (3-0-0) Overlaps with: PYL748",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL748",
@@ -23452,7 +23493,7 @@
   "PYL770": {
     "code": "PYL770",
     "name": "Ultra-fast optics and applications",
-    "credits": "3 (3-0-0) Overlaps with : PYL412",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL412",
@@ -23522,7 +23563,7 @@
   "PYL793": {
     "code": "PYL793",
     "name": "Photonic Devices",
-    "credits": "3 (3-0-0) Overlaps with : PYL312",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL312",
@@ -23942,7 +23983,7 @@
   "RDL728": {
     "code": "RDL728",
     "name": "Rural Energy Assessment and Planning",
-    "credits": "3 (3-0-0) Overlap with: ESL751",
+    "credits": "3 (3-0-0)",
     "department": "Centre for Rural Development and Technology",
     "pre": "",
     "overlap": "ESL751",
@@ -24922,7 +24963,7 @@
   "SPL712": {
     "code": "SPL712",
     "name": "Comparative Industrial Policy",
-    "credits": "3 (3-0-0) Overlaps with: HUL736",
+    "credits": "3 (3-0-0)",
     "department": "School of Public Policy",
     "pre": "",
     "overlap": "HUL736",

@@ -1,0 +1,200 @@
+Course: ELL743
+Pre: ELL218, ELL111(UG), ELL732(PG)
+
+---
+Course: ELL745
+Pre: ELL732(PG)
+
+---
+Course: ELL747
+Pre: ELL202 or circuit theory
+
+---
+Course: ELV451
+Pre: to be decided by the instructor
+
+---
+Course: ELV700
+Pre: to be decided by the instructor
+
+---
+Course: ELV730
+Pre: to be decide by instructor
+
+---
+Course: ELV731
+Pre: to be decided by the instructor
+
+---
+Course: ELV781
+Pre: to be decided by the instructor
+
+---
+Course: ESL300
+Pre: EC60 (for UG students)
+
+---
+Course: ESL330
+Pre: EC60 (for UG students)
+
+---
+Course: ESL340
+Pre: EC60 (for UG students)
+
+---
+Course: ESL350
+Pre: EC60 (for UG students)
+
+---
+Course: ESL371
+Pre: MCL140, APL106 or APL105, ESL200, ESL262, ESL263
+
+---
+Course: ESL373
+Pre: MCL141/MCL142 or MCL140 & MCL242 or CLL121, CLL231 & CLL251
+
+---
+Course: ESL726
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL731
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL742
+Pre: EC 75 (for UG students in Minor Area)
+
+---
+Course: ESL748
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL776
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL784
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL785
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL786
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL875
+Pre: EC 100 (for UG Students in Minor Area)
+
+---
+Course: ESP713
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: MCL330
+Pre: To be defined by the course coordinator at the time of offering the course if required
+
+---
+Course: MCL331
+Pre: for ME1: MCL131, MCL231 for ME2: MCL136
+
+---
+Course: MCL334
+Pre: ELL101 and APL106 or MCL141
+
+---
+Course: MCL343
+Pre: (MCL140 and MCL242) or MCL141
+
+---
+Course: MCL344
+Pre: (MCL140 and MCL242) or MCL141
+
+---
+Course: MCL348
+Pre: APL106 and (MCL242 or MCL141)
+
+---
+Course: MCL350
+Pre: Product-related core courses, as specified by the instructor
+
+---
+Course: MCL370
+Pre: To be defined by the course coordinator at the time of offering the course if required
+
+---
+Course: MCL380
+Pre: courses as specified by the instructor and EC 50 Course details shall be announced at the time of offering of the course. The assessment will be based on a combination of assignments, quizzes, and term paper and tests.
+
+---
+Course: MCL431
+Pre: for ME1: MCL131, MCL231 for ME2: MCL136
+
+---
+Course: MCL441
+Pre: (MCL242 or MCL141) and MCP301
+
+---
+Course: MCL442
+Pre: APL106 and [(MCL140 & MCL242) or MCL141] and EC 80
+
+---
+Course: MCL443
+Pre: MCL140 & MCL242 or MCL141 and EC 80
+
+---
+Course: MCL711
+Pre: For ME1/ME2: APL100, APL104, MCL211
+
+---
+Course: MCL712
+Pre: For ME1/ME2 and other UG students: APL100, MTL100, MTL101
+
+---
+Course: MCL713
+Pre: For ME1/ME2: APL100, MTL100, MTL101
+
+---
+Course: MCL714
+Pre: For ME1/ME2: APL100, APL104, MCL211, MCL311
+
+---
+Course: MCL716
+Pre: MCL212, ELL100 for UG
+
+---
+Course: MCL717
+Pre: MCL211 for UG
+
+---
+Course: MCL718
+Pre: MCL211 for UG
+
+---
+Course: MCL732
+Pre: MTL101, APL106 for UG students
+
+---
+Course: MCL747
+Pre: For UG:AML140, MCL111, MCL211
+
+---
+Course: MCL776
+Pre: For UG: MCL131 or MCL132; for PG MCL769
+
+---
+Course: MCL795
+Pre: For UG students: MCL231 or MCL131
+
+---
+Course: MCL797
+Pre: For UG: AML140 and MCL111; For Non-ME PG: MCL799
+
+---
+Course: MCL799
+Pre: For UG: APL100: Engineering Mechanics; For 428PG: None
+
+---

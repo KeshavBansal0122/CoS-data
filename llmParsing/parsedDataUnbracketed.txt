@@ -1,0 +1,912 @@
+Course: AIL721
+Pre: [ELL409 | ELL784 | AIL701 | COL774 | COL341]
+
+---
+Course: AIL722
+Pre: [ELL409 | ELL784 | AIL701 | AIL721 | COL341 | COL774]
+
+---
+Course: AIL861
+Pre: [COL761 | COL774 | COL333 | COL671]
+
+---
+Course: AIL862
+Pre: [COL774 | COL780 | ELL793]
+
+---
+Course: APD311
+Pre: [EC50]
+
+---
+Course: APL306
+Pre: FAIL
+
+---
+Course: APL310
+Pre: [(APL104 | APL105 | APL108) & EC50]
+
+---
+Course: APL331
+Pre: [(APL104 | APL105 | APL108) & EC50]
+
+---
+Course: APL410
+Pre: [APL104]
+
+---
+Course: APL747
+Pre: FAIL
+
+---
+Course: APV808
+Pre: [AML731 | APL796]
+
+---
+Course: ASL765
+Pre: [ASL320 | ASL340]
+
+---
+Course: ASL824
+Pre: [ASL733 | ASL734]
+
+---
+Course: ASL827
+Pre: [ASL734 | ASL737]
+
+---
+Course: BBL733
+Pre: [BBL131 & BBL132 & BBL231]
+
+---
+Course: BBL741
+Pre: [BBL131 & BBL231]
+
+---
+Course: BBL742
+Pre: [BBL132 & BBL331]
+
+---
+Course: BBL743
+Pre: [BBL131 & BBL331]
+
+---
+Course: BBL747
+Pre: [BBL131]
+
+---
+Course: BBL771
+Pre: FAIL
+
+---
+Course: BBL772
+Pre: FAIL
+
+---
+Course: BBL773
+Pre: FAIL
+
+---
+Course: BBV750
+Pre: FAIL
+
+---
+Course: BML713
+Pre: [EC75]
+
+---
+Course: BML714
+Pre: [EC60]
+
+---
+Course: BML738
+Pre: [EC90]
+
+---
+Course: BML772
+Pre: [EC50]
+
+---
+Course: BML774
+Pre: [APL100]
+
+---
+Course: BML781
+Pre: [EC75]
+
+---
+Course: BML880
+Pre: [BMV701 | (ELL202 | BMV701)]
+
+---
+Course: CLL798
+Pre: FAIL
+
+---
+Course: CLL799
+Pre: FAIL
+
+---
+Course: CLV797
+Pre: FAIL
+
+---
+Course: COL775
+Pre: [ELL409 | ELL774 | COL341 | COL333 | COL671]
+
+---
+Course: COL777
+Pre: [ELL409 | ELL784 | COL774 | COL341 | COL333 | COL671]
+
+---
+Course: COL778
+Pre: [COL333 | COL774 | ELL784 | ELL409]
+
+---
+Course: COL864
+Pre: [COL333 | COL671]
+
+---
+Course: COL865
+Pre: FAIL
+
+---
+Course: COL868
+Pre: [COL334 | COL672]
+
+---
+Course: COL871
+Pre: [COL765 | (COL226 & COL202)]
+
+---
+Course: COL874
+Pre: [COL765 | (COL226 & COL202)]
+
+---
+Course: COL876
+Pre: [COL765 | (COL703 & COL226)]
+
+---
+Course: COP315
+Pre: [COL215 & COL216]
+
+---
+Course: COV880
+Pre: FAIL
+
+---
+Course: COV881
+Pre: FAIL
+
+---
+Course: COV884
+Pre: [COL333 | COL671]
+
+---
+Course: COV887
+Pre: [COL334 | COL672]
+
+---
+Course: CVD753
+Pre: FAIL
+
+---
+Course: CVD757
+Pre: FAIL
+
+---
+Course: CVD758
+Pre: [CVD757]
+
+---
+Course: CVL381
+Pre: [CVL281 & CVL282]
+
+---
+Course: CVL382
+Pre: [CVL282 | EC75]
+
+---
+Course: CVL384
+Pre: [CVL282 | EC75]
+
+---
+Course: CVL461
+Pre: [CVL261]
+
+---
+Course: CVL740
+Pre: FAIL
+
+---
+Course: CVL741
+Pre: FAIL
+
+---
+Course: CVL742
+Pre: FAIL
+
+---
+Course: CVL743
+Pre: FAIL
+
+---
+Course: CVL744
+Pre: FAIL
+
+---
+Course: CVL745
+Pre: FAIL
+
+---
+Course: CVL746
+Pre: FAIL
+
+---
+Course: CVL747
+Pre: FAIL
+
+---
+Course: CVL750
+Pre: FAIL
+
+---
+Course: CVL758
+Pre: FAIL
+
+---
+Course: CVL840
+Pre: [CVL741]
+
+---
+Course: CVL841
+Pre: [CVL741]
+
+---
+Course: CVL842
+Pre: [CVL741 & CVL742]
+
+---
+Course: CVL844
+Pre: [CVL740]
+
+---
+Course: CVL845
+Pre: [CVL740]
+
+---
+Course: CVL846
+Pre: [CVL741 & CVL742]
+
+---
+Course: CVL847
+Pre: [CVL741]
+
+---
+Course: CVL848
+Pre: [CVL741 & CVL748]
+
+---
+Course: CVL850
+Pre: [CVL742]
+
+---
+Course: CVL851
+Pre: [CVL740 | CVL741 | CVL742]
+
+---
+Course: CVP121
+Pre: [CVL121]
+
+---
+Course: CVP222
+Pre: [CVL222]
+
+---
+Course: CVP242
+Pre: [CVL242]
+
+---
+Course: CVP261
+Pre: [CVL261]
+
+---
+Course: CVP281
+Pre: [CVL281]
+
+---
+Course: CVP321
+Pre: [CVL321]
+
+---
+Course: CVP441
+Pre: [CVL243 & CVL342]
+
+---
+Course: CVP810
+Pre: [CVP710]
+
+---
+Course: CVS754
+Pre: FAIL
+
+---
+Course: DDD310
+Pre: FAIL
+
+---
+Course: DDL215
+Pre: FAIL
+
+---
+Course: DDL722
+Pre: FAIL
+
+---
+Course: DDL725
+Pre: [DDP731 | (DDL111 & DDL116 & DDL125 & DDL126)]
+
+---
+Course: DDL733
+Pre: FAIL
+
+---
+Course: DDL752
+Pre: FAIL
+
+---
+Course: ELL302
+Pre: [ELL231 | ELL211]
+
+---
+Course: ELL304
+Pre: [ELL101 & ELL202 & (ELL211 | ELL231)]
+
+---
+Course: ELL455
+Pre: FAIL
+
+---
+Course: ELL456
+Pre: FAIL
+
+---
+Course: ELL459
+Pre: FAIL
+
+---
+Course: ELL460
+Pre: FAIL
+
+---
+Course: ELL708
+Pre: FAIL
+
+---
+Course: ELL721
+Pre: FAIL
+
+---
+Course: ELL737
+Pre: [ELL218 | ELL111 | ELL732]
+
+---
+Course: ELL739
+Pre: [ELL732]
+
+---
+Course: ELL740
+Pre: FAIL
+
+---
+Course: ELL743
+Pre: FAIL
+
+---
+Course: ELL745
+Pre: [ELL732]
+
+---
+Course: ELL747
+Pre: [ELL202]
+
+---
+Course: ELV451
+Pre: FAIL
+
+---
+Course: ELV700
+Pre: FAIL
+
+---
+Course: ELV730
+Pre: FAIL
+
+---
+Course: ELV731
+Pre: FAIL
+
+---
+Course: ELV781
+Pre: FAIL
+
+---
+Course: ESL300
+Pre: [EC60]
+
+---
+Course: ESL330
+Pre: [EC60]
+
+---
+Course: ESL340
+Pre: [EC60]
+
+---
+Course: ESL350
+Pre: [EC60]
+
+---
+Course: ESL371
+Pre: [MCL140 & APL106 & ESL200 & ESL262 & ESL263]
+
+---
+Course: ESL373
+Pre: FAIL
+
+---
+Course: ESL726
+Pre: [EC75]
+
+---
+Course: ESL731
+Pre: [EC75]
+
+---
+Course: ESL742
+Pre: [EC75]
+
+---
+Course: ESL748
+Pre: [EC75]
+
+---
+Course: ESL776
+Pre: [EC75]
+
+---
+Course: ESL784
+Pre: [EC75]
+
+---
+Course: ESL785
+Pre: [EC75]
+
+---
+Course: ESL786
+Pre: [EC75]
+
+---
+Course: ESL875
+Pre: [EC100]
+
+---
+Course: ESP713
+Pre: [EC75]
+
+---
+Course: MCL330
+Pre: FAIL
+
+---
+Course: MCL331
+Pre: FAIL
+
+---
+Course: MCL334
+Pre: [ELL101 & APL106]
+
+---
+Course: MCL343
+Pre: [(MCL140 & MCL242) | MCL141]
+
+---
+Course: MCL344
+Pre: [(MCL140 & MCL242) | MCL141]
+
+---
+Course: MCL348
+Pre: [APL106 & (MCL242 | MCL141)]
+
+---
+Course: MCL350
+Pre: FAIL
+
+---
+Course: MCL370
+Pre: FAIL
+
+---
+Course: MCL380
+Pre: [EC50]
+
+---
+Course: MCL431
+Pre: FAIL
+
+---
+Course: MCL441
+Pre: [(MCL242 | MCL141) & MCP301]
+
+---
+Course: MCL442
+Pre: [APL106 & ((MCL140 & MCL242) | MCL141) & EC80]
+
+---
+Course: MCL443
+Pre: [(MCL140 & MCL242) | MCL141 & EC80]
+
+---
+Course: MCL711
+Pre: [APL100 & APL104 & MCL211]
+
+---
+Course: MCL712
+Pre: [APL100 & MTL100 & MTL101]
+
+---
+Course: MCL713
+Pre: [APL100 & MTL100 & MTL101]
+
+---
+Course: MCL714
+Pre: [APL100 & APL104 & MCL211 & MCL311]
+
+---
+Course: MCL716
+Pre: [MCL212 & ELL100]
+
+---
+Course: MCL717
+Pre: [MCL211]
+
+---
+Course: MCL718
+Pre: [MCL211]
+
+---
+Course: MCL732
+Pre: [MTL101 & APL106]
+
+---
+Course: MCL747
+Pre: [AML140 & MCL111 & MCL211]
+
+---
+Course: MCL776
+Pre: FAIL
+
+---
+Course: MCL795
+Pre: [MCL231 | MCL131]
+
+---
+Course: MCL797
+Pre: [AML140 & MCL111]
+
+---
+Course: MCL799
+Pre: [APL100]
+
+---
+Course: MCL826
+Pre: [APL106 & MCL242]
+
+---
+Course: MCP331
+Pre: FAIL
+
+---
+Course: MCV390
+Pre: FAIL
+
+---
+Course: MDL802
+Pre: FAIL
+
+---
+Course: MDL803
+Pre: FAIL
+
+---
+Course: MDL806
+Pre: FAIL
+
+---
+Course: MLL730
+Pre: FAIL
+
+---
+Course: MLL734
+Pre: FAIL
+
+---
+Course: MLL738
+Pre: [PYL100 & MLL211]
+
+---
+Course: MLL744
+Pre: FAIL
+
+---
+Course: MLL748
+Pre: FAIL
+
+---
+Course: MLL750
+Pre: FAIL
+
+---
+Course: MLL752
+Pre: FAIL
+
+---
+Course: MLL760
+Pre: FAIL
+
+---
+Course: MSL890
+Pre: FAIL
+
+---
+Course: MTL734
+Pre: [MTL106 | MTL108 | MTL601]
+
+---
+Course: MTL736
+Pre: [MTL122 | MTL506]
+
+---
+Course: MTL781
+Pre: [(MTL107 | MTL509) & (MTL411 | MTL602)]
+
+---
+Course: MTL799
+Pre: [EC 90]
+
+---
+Course: PYL321
+Pre: [PYL201]
+
+---
+Course: PYL707
+Pre: FAIL
+
+---
+Course: PYL711
+Pre: [(PYL127 & PYL121) | (PYL551 & PYL553)]
+
+---
+Course: PYL745
+Pre: [PYL558 | PYL202]
+
+---
+Course: PYL746
+Pre: [PYL558 | PYL202]
+
+---
+Course: PYL750
+Pre: FAIL
+
+---
+Course: RDL745
+Pre: FAIL
+
+---
+Course: SBL706
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL707
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL708
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL709
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL710
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL711
+Pre: [SBL100 & SBL201 & EC 75]
+
+---
+Course: SBL712
+Pre: [SBL100 & (SBL201 | BEL204 | BEL311) & EC 75]
+
+---
+Course: SBL713
+Pre: [SBL100 & (BEL204 | BEL311) & EC 75]
+
+---
+Course: SBL720
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL721
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL722
+Pre: [EC 75 & (BEL110 | CYL110 | CYL120)]
+
+---
+Course: SBL723
+Pre: [EC 75 & (SBL100 | BBL131 | CML101)]
+
+---
+Course: SBL724
+Pre: [EC 75 & SBL100]
+
+---
+Course: SBL725
+Pre: [EC 75 & SBL100]
+
+---
+Course: SBL726
+Pre: [EC 75 & SBL100]
+
+---
+Course: SBL727
+Pre: [EC 75 & SBL100]
+
+---
+Course: SBL728
+Pre: [SBL100 | BBL110 | BBL131]
+
+---
+Course: SBL729
+Pre: [SBL100 & EC 75]
+
+---
+Course: SBL750
+Pre: [SBL100 & SBL201 & EC 75]
+
+---
+Course: SBL751
+Pre: [SBL100 & SBL201 & EC 75]
+
+---
+Course: SBV892
+Pre: [EC 75 & (SBL100 | BBL131)]
+
+---
+Course: SBV893
+Pre: [EC 75 & SBL100]
+
+---
+Course: SBV895
+Pre: [EC 75 & SBL100]
+
+---
+Course: SBV896
+Pre: [SBL100 | BBL110 | BBL131]
+
+---
+Course: SBV897
+Pre: [EC100 & SBL100]
+
+---
+Course: SBV898
+Pre: FAIL
+
+---
+Course: SBV899
+Pre: [CML101 | SBL100 | BBL131]
+
+---
+Course: TXD301
+Pre: [(TXL211 | TXL221 | TXL222 | TXL231 | TXL232) & EC65]
+
+---
+Course: TXD401
+Pre: [(TXL361 | TXP361 | TXL371 | TXL372) & EC100]
+
+---
+Course: TXD402
+Pre: FAIL
+
+---
+Course: TXL719
+Pre: [(TXL212 | TXL221 | TXL231) & EC75]
+
+---
+Course: TXL724
+Pre: [(TXL221 | TXL222) & EC75]
+
+---
+Course: TXL751
+Pre: [(TXL211 | TXL221 | TXL222 | TXL231 | TXL232) & EC75]
+
+---
+Course: TXL766
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXL774
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXL775
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXL777
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXL780
+Pre: FAIL
+
+---
+Course: TXL781
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXL782
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXL785
+Pre: [TXL111 | TXL221]
+
+---
+Course: TXL786
+Pre: FAIL
+
+---
+Course: TXP361
+Pre: [(TXL222 | TXL221) & (TXL232 | TXL231)]
+
+---
+Course: TXP749
+Pre: FAIL
+
+---
+Course: TXP751
+Pre: FAIL
+
+---
+Course: TXR301
+Pre: [(TXL211 | TXL221 | TXL222 | TXL231 | TXL232) & EC65]
+
+---
+Course: TXT800
+Pre: [TXL747 | TXL753 | TXL749]
+
+---
+Course: TXV701
+Pre: [(TXL211 | TXL221 | TXL222 | TXL231 | TXL232) & EC75]
+
+---
+Course: TXV702
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXV703
+Pre: [(TXL222 | TXL232) & EC75]
+
+---
+Course: TXV706
+Pre: [(TXL211 | TXL221 | TXL222 | TXL231 | TXL232) & EC75]
+
+---
+Course: VEV742
+Pre: FAIL
+
+---

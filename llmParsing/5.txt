@@ -1,0 +1,112 @@
+Course: SBV897
+Pre: Pre-requisite(s): EC100 and SBL100 for UG students
+
+---
+Course: SBV898
+Pre: EC100 and SBL100 for UG students. None for PG students
+
+---
+Course: SBV899
+Pre: CML101 or SBL100 or BBL131 for UG students. None for PG students.
+
+---
+Course: TXD301
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC65
+
+---
+Course: TXD401
+Pre: TXL361/TXP361/TXL371/TXL372 and EC 100
+
+---
+Course: TXD402
+Pre: EC100 and Minimum B Grade in TXD401 Continuation of planned tasks started in Major Project Part I, TXD411, to completion, thesis writing and presentation of complete work of progress for award of grade.
+
+---
+Course: TXL719
+Pre: TXL212/TXL221/ TXL231 and EC75
+
+---
+Course: TXL724
+Pre: TXL221/TXL222 and EC75
+
+---
+Course: TXL751
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC75
+
+---
+Course: TXL766
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL774
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL775
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL777
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL780
+Pre: : EC 75 for TT1; None for others
+
+---
+Course: TXL781
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL782
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL785
+Pre: TXL111/TXL221 for UG students
+
+---
+Course: TXL786
+Pre: None for TTF, TTE, TTC and TTZ; TXL241, TXL242, TXP241, TXP242 for TT1
+
+---
+Course: TXP361
+Pre: (TXL222/TXL221) and (TXL232/TXL231) Introduction to textile testing; Experiments related to the lecture course entitled “Evaluation of Textile Material”.
+
+---
+Course: TXP749
+Pre: B.Tech. Textile / BE Textile / M.Sc. Textile Project based experiments in dyeing and colouration, dyeing of fabric, visual and instrumental assessment of shade variation. Subjective vs objective evaluation, Shade sorting, whiteness index. Azo dye synthesis and characterization.
+
+---
+Course: TXP751
+Pre: B Tech. Textile/ BE Textile/ MSc Textile Evaluation, characterization and analysis of textile auxiliaries, chemicals, dyes, and water, Project based experiments for evaluation of the dyed and finished textiles.
+
+---
+Course: TXR301
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC65
+
+---
+Course: TXT800
+Pre: Pre-requisite(s): TXL747/TXL753/TXL749
+
+---
+Course: TXV701
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC 75
+
+---
+Course: TXV702
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXV703
+Pre: TTXL222/TXL232 and EC 75
+
+---
+Course: TXV706
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC 75
+
+---
+Course: VEV742
+Pre: At least 50 earned Credits for undergraduate students.
+
+---

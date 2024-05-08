@@ -141,7 +141,7 @@
   "AIL801": {
     "code": "AIL801",
     "name": "Introduction to the Mathematics of Machine Learning",
-    "credits": "3 (3-0-0) Overlaps with: MTL801",
+    "credits": "3 (3-0-0)",
     "department": "Yardi School of Artificial Intelligence",
     "pre": "",
     "overlap": "MTL801",
@@ -839,7 +839,7 @@
   "APL206": {
     "code": "APL206",
     "name": "Engineering Thermodynamics",
-    "credits": "2 (2-0-0) Overlaps with: MCL140",
+    "credits": "2 (2-0-0)",
     "department": "Department of Applied Mechanics",
     "pre": "",
     "overlap": "MCL140",
@@ -878,7 +878,7 @@
   "APL302": {
     "code": "APL302",
     "name": "Basics of Product Design",
-    "credits": "4 (3-0-2) Overlaps with: APL775",
+    "credits": "4 (3-0-2)",
     "department": "Department of Applied Mechanics",
     "pre": "",
     "overlap": "APL775",
@@ -1287,7 +1287,7 @@
   "APL707": {
     "code": "APL707",
     "name": "Integral Equations",
-    "credits": "3 (3-0-0) Overlaps with: MTL746",
+    "credits": "3 (3-0-0)",
     "department": "Department of Applied Mechanics",
     "pre": "",
     "overlap": "MTL746",
@@ -2358,7 +2358,7 @@
   "ASV892": {
     "code": "ASV892",
     "name": "An Introduction to Renewable Energy Meteorology",
-    "credits": "1 (1-0-0) Overlaps with: ASL760",
+    "credits": "1 (1-0-0)",
     "department": "Centre for Atmospheric Sciences",
     "pre": "",
     "overlap": "ASL760",
@@ -2428,7 +2428,7 @@
   "BBL133": {
     "code": "BBL133",
     "name": "Mass and Energy Balances in Biochemical Engineering",
-    "credits": "3 (3-0-0) Overlaps with: CLL111",
+    "credits": "3 (3-0-0)",
     "department": "Department of Biochemical Engineering and Biotechnology",
     "pre": "",
     "overlap": "CLL111",
@@ -5176,7 +5176,7 @@
   "CML696": {
     "code": "CML696",
     "name": "Physical Organic Chemistry",
-    "credits": "3 (3-0-0) Overlap with: CML743",
+    "credits": "3 (3-0-0)",
     "department": "Department of Chemistry",
     "pre": "",
     "overlap": "CML743",
@@ -5356,7 +5356,7 @@
   "CML743": {
     "code": "CML743",
     "name": "Physical Organic Chemistry Advanced",
-    "credits": "3 (3-0-0) Overlap with: CML696",
+    "credits": "3 (3-0-0)",
     "department": "Department of Chemistry",
     "pre": "",
     "overlap": "CML696",
@@ -5591,7 +5591,7 @@
   "COL202": {
     "code": "COL202",
     "name": "Discrete Mathematical Structures",
-    "credits": "4 (3-1-0) Overlaps with: MTL180",
+    "credits": "4 (3-1-0)",
     "department": "Department of Computer Science and Engineering",
     "pre": "",
     "overlap": "MTL180",
@@ -8219,7 +8219,7 @@
   "CVL461": {
     "code": "CVL461",
     "name": "Logistics and Freight Transport",
-    "credits": "3 (3-0-0) Overlaps with: SML843",
+    "credits": "3 (3-0-0)",
     "department": "Department of Civil Engineering",
     "pre": "CVL261 or Instructor’s permission",
     "overlap": "SML843",
@@ -12609,7 +12609,7 @@
   "ELL742": {
     "code": "ELL742",
     "name": "Introduction to MEMS Design",
-    "credits": "3 (3-0-0) Overlaps with: CRL726",
+    "credits": "3 (3-0-0)",
     "department": "Department of Electrical Engineering",
     "pre": "",
     "overlap": "CRL726",
@@ -13185,7 +13185,7 @@
   "ELL791": {
     "code": "ELL791",
     "name": "Neural Systems and Learning Machines",
-    "credits": "3 (3-0-2) Overlaps with: MTL720",
+    "credits": "3 (3-0-2)",
     "department": "Department of Electrical Engineering",
     "pre": "",
     "overlap": "MTL720",
@@ -14916,7 +14916,7 @@
   "ESL350": {
     "code": "ESL350",
     "name": "Energy Conservation and Management",
-    "credits": "3 (3-0-0) Overlaps with: ESL720",
+    "credits": "3 (3-0-0)",
     "department": "Department of Energy Science and Engineering",
     "pre": "EC60 (for UG students)",
     "overlap": "ESL720",
@@ -18734,7 +18734,7 @@
   "HUL876": {
     "code": "HUL876",
     "name": "Ethnography: Theory, Practice and Critique",
-    "credits": "3 (3-0-0) Overlaps with: HSV771",
+    "credits": "3 (3-0-0)",
     "department": "Department of Humanities and Social Sciences",
     "pre": "",
     "overlap": "HSV771",
@@ -20044,7 +20044,7 @@
   "MCL364": {
     "code": "MCL364",
     "name": "Value Engineering",
-    "credits": "4 (3-0-2) Overlaps with: MEL671",
+    "credits": "4 (3-0-2)",
     "department": "Department of Mechanical Engineering",
     "pre": "",
     "overlap": "MEL671",
@@ -21635,7 +21635,7 @@
   "MLL102": {
     "code": "MLL102",
     "name": "Structure of Materials",
-    "credits": "3 (2-1-0) Overlaps with: MLL701",
+    "credits": "3 (2-1-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MLL701",
@@ -22117,7 +22117,7 @@
   "MLL722": {
     "code": "MLL722",
     "name": "Polymer Technology",
-    "credits": "3 (3-0-0) Overlaps with: MLL343",
+    "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MLL343",
@@ -22130,7 +22130,7 @@
   "MLL723": {
     "code": "MLL723",
     "name": "Polymer Characterization",
-    "credits": "3 (3-0-0) Overlaps with: MLL104",
+    "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MLL104",
@@ -22311,7 +22311,7 @@
   "MLL742": {
     "code": "MLL742",
     "name": "Micro and Nano Fabrication in Materials Engineering",
-    "credits": "3 (3-0-0) Overlaps with: MCL331",
+    "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "",
     "overlap": "MCL331",
@@ -24574,7 +24574,7 @@
   "MTL102": {
     "code": "MTL102",
     "name": "Differential Equations",
-    "credits": "3 (3-0-0) Overlaps with: MTL260",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL260",
@@ -24619,7 +24619,7 @@
   "MTL105": {
     "code": "MTL105",
     "name": "Algebra",
-    "credits": "3 (3-0-0) Overlaps with: MTL501",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL501",
@@ -24632,7 +24632,7 @@
   "MTL106": {
     "code": "MTL106",
     "name": "Probability and Stochastic Processes",
-    "credits": "4 (3-1-0) Overlaps with: MTL108",
+    "credits": "4 (3-1-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL108",
@@ -24716,7 +24716,7 @@
   "MTL180": {
     "code": "MTL180",
     "name": "Discrete Mathematical Structures",
-    "credits": "4 (3-1-0) Overlaps with: COL202",
+    "credits": "4 (3-1-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "COL202",
@@ -24756,7 +24756,7 @@
   "MTL270": {
     "code": "MTL270",
     "name": "Measure Integral and Probability",
-    "credits": "3 (3-0-0) Overlaps with: MTL510",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL510",
@@ -25165,7 +25165,7 @@
   "MTL735": {
     "code": "MTL735",
     "name": "Advanced Number Theory",
-    "credits": "3 (3-0-0) Overlaps with: MTL145",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "MTL145",
@@ -25504,7 +25504,7 @@
   "MTL785": {
     "code": "MTL785",
     "name": "Natural Language Processing",
-    "credits": "3 (3-0-0) Overlaps with: COL772",
+    "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
     "overlap": "COL772",
@@ -26684,7 +26684,7 @@
   "PYL701": {
     "code": "PYL701",
     "name": "Physical Foundations of Materials Science",
-    "credits": "3 (3-0-0) Overlap with : PYL303",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL303",
@@ -26697,7 +26697,7 @@
   "PYL702": {
     "code": "PYL702",
     "name": "Physics of Semiconductor Devices",
-    "credits": "3 (3-0-0) Overlap with : PYL201",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL201",
@@ -26710,7 +26710,7 @@
   "PYL703": {
     "code": "PYL703",
     "name": "Electronic Properties of Materials",
-    "credits": "3 (3-0-0) Overlap with : PYL102",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL102",
@@ -26724,7 +26724,7 @@
   "PYL704": {
     "code": "PYL704",
     "name": "Science and Technology of Thin Films",
-    "credits": "3 (3-0-0) Overlap with : PYL307",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL307",
@@ -26778,7 +26778,7 @@
   "PYL723": {
     "code": "PYL723",
     "name": "Vacuum Science and Cryogenics",
-    "credits": "3 (3-0-0) Overlap with : PYL301",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL301",
@@ -26893,7 +26893,7 @@
   "PYL742": {
     "code": "PYL742",
     "name": "General Relativity",
-    "credits": "3 (3-0-0) Overlaps with : PYL332",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL332",
@@ -26917,7 +26917,7 @@
   "PYL744": {
     "code": "PYL744",
     "name": "High Energy Physics",
-    "credits": "3 (3-0-0) Overlaps with : PYL433",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL433",
@@ -27053,7 +27053,7 @@
   "PYL757": {
     "code": "PYL757",
     "name": "Statistical and Quantum optics",
-    "credits": "3 (3-0-0) Overlaps with: PYL748",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL748",
@@ -27121,7 +27121,7 @@
   "PYL770": {
     "code": "PYL770",
     "name": "Ultra-fast optics and applications",
-    "credits": "3 (3-0-0) Overlaps with : PYL412",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL412",
@@ -27203,7 +27203,7 @@
   "PYL793": {
     "code": "PYL793",
     "name": "Photonic Devices",
-    "credits": "3 (3-0-0) Overlaps with : PYL312",
+    "credits": "3 (3-0-0)",
     "department": "Department of Physics",
     "pre": "",
     "overlap": "PYL312",
@@ -27673,7 +27673,7 @@
   "RDL728": {
     "code": "RDL728",
     "name": "Rural Energy Assessment and Planning",
-    "credits": "3 (3-0-0) Overlap with: ESL751",
+    "credits": "3 (3-0-0)",
     "department": "Centre for Rural Development and Technology",
     "pre": "",
     "overlap": "ESL751",
@@ -28774,7 +28774,7 @@
   "SPL712": {
     "code": "SPL712",
     "name": "Comparative Industrial Policy",
-    "credits": "3 (3-0-0) Overlaps with: HUL736",
+    "credits": "3 (3-0-0)",
     "department": "School of Public Policy",
     "pre": "",
     "overlap": "HUL736",

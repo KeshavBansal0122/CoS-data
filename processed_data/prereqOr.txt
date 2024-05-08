@@ -1,0 +1,912 @@
+Course: AIL721
+Pre: Any one of ELL409 / ELL784 / AIL701 / COL774/ COL341
+
+---
+Course: AIL722
+Pre: Any one of ELL409 / ELL784 / AIL701 / AIL721/ COL341 / COL774
+
+---
+Course: AIL861
+Pre: Pre-requisite(s): One of COL761, COL774, COL333 or COL671
+
+---
+Course: AIL862
+Pre: One of COL774, or COL780, or ELL793
+
+---
+Course: APD311
+Pre: EC 50, 12 Credits of Minor Area in Computational Mechanics
+
+---
+Course: APL306
+Pre: APL104 O
+
+---
+Course: APL310
+Pre: APL104/APL105/APL108 EC 50
+
+---
+Course: APL331
+Pre: APL104/APL105/APL108 EC50
+
+---
+Course: APL410
+Pre: APL104  course in Basic Solid Mechanics
+
+---
+Course: APL747
+Pre: For UG: APL101/MTL106/MTL108  and EC 75 For PG: NO Pre-requisites required.
+
+---
+Course: APV808
+Pre: AML731 or APL796 or an equivalent course in Linear Elasticity
+
+---
+Course: ASL765
+Pre: Either ASL320 or ASL340 for UG Students; None for PG students
+
+---
+Course: ASL824
+Pre: Any one of ASL733, ASL734
+
+---
+Course: ASL827
+Pre: Either ASL734 or ASL737
+
+---
+Course: BBL733
+Pre: BBL131, BBL132, BBL231 or Masters’ degree in Bioscience
+
+---
+Course: BBL741
+Pre: BBL131 BBL231 or Masters’ degree in Bioscience
+
+---
+Course: BBL742
+Pre: BBL132, BBL331 or Bachelor’s degree in Engineering or Masters’ degree in Science
+
+---
+Course: BBL743
+Pre: BBL131, BBL331 or Masters’ degree in Bioscience
+
+---
+Course: BBL747
+Pre: BBL131 or Masters’ degree in Bioscience
+
+---
+Course: BBL771
+Pre: Basic biology (Class 10 level)
+
+---
+Course: BBL772
+Pre: Basic Mathematics (Class 10 level)
+
+---
+Course: BBL773
+Pre: Basic Mathematics (Class 10 level)
+
+---
+Course: BBV750
+Pre: Undergraduate or M.Sc. level in Biochem/ Biology or Chem. Engg.
+
+---
+Course: BML713
+Pre: 75 earned Credits (only for UG students)
+
+---
+Course: BML714
+Pre: 60 Credits for Outside CBME Students
+
+---
+Course: BML738
+Pre: 90 Credits for UG students. For PG students with mathematics till 10+2 level only, bridge course (BMV702) is compulsory.
+
+---
+Course: BML772
+Pre: 50 Credits
+
+---
+Course: BML774
+Pre: APL100 for B.Tech students of all departments
+
+---
+Course: BML781
+Pre: 75 Credits for UG students
+
+---
+Course: BML880
+Pre: BMV701 for CBME students with background in sciences and medicine. ELL202 or BMV701 for B.Tech. students of other departments.
+
+---
+Course: CLL798
+Pre: To be declared by Instructor
+
+---
+Course: CLL799
+Pre: To be declared by Instructor
+
+---
+Course: CLV797
+Pre: To be declared by Instructor
+
+---
+Course: COL775
+Pre: Any one of ELL409/ELL774 / COL341/ COL333/ COL671
+
+---
+Course: COL777
+Pre: Any one of ELL409/ELL784/COL774/COL341/ COL333/COL671
+
+---
+Course: COL778
+Pre: Any one of COL333 / COL774 / ELL784 / ELL409
+
+---
+Course: COL864
+Pre: COL333 / COL671 / Equivalent
+
+---
+Course: COL865
+Pre: Permission of the Instructor
+
+---
+Course: COL868
+Pre: COL334 / COL672 / Equivalent
+
+---
+Course: COL871
+Pre: COL765 or (COL226+COL202)
+
+---
+Course: COL874
+Pre: COL765 or (COL226+COL202)
+
+---
+Course: COL876
+Pre: COL765 or (COL703+COL226)
+
+---
+Course: COP315
+Pre: COL215, COL216  courses
+
+---
+Course: COV880
+Pre: Permission of Instructor
+
+---
+Course: COV881
+Pre: Permission of Instructor
+
+---
+Course: COV884
+Pre: COL333 / COL671 / Equivalent
+
+---
+Course: COV887
+Pre: COL334 OR COl 672
+
+---
+Course: CVD753
+Pre: M.Tech.: Nil
+
+---
+Course: CVD757
+Pre: programme core Credits+minimum 24 Credits
+
+---
+Course: CVD758
+Pre: CVD757 must be passed
+
+---
+Course: CVL381
+Pre: CVL281 and CVL282 Input studies.
+
+---
+Course: CVL382
+Pre: CVL282 or EC 75
+
+---
+Course: CVL384
+Pre: CVL282 or EC 75
+
+---
+Course: CVL461
+Pre: CVL261 or Instructor’s permission
+
+---
+Course: CVL740
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL741
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL742
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL743
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL744
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL745
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL746
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL747
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL750
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL758
+Pre: UG/Dual- 120 Credits
+
+---
+Course: CVL840
+Pre: M.Tech: CVL741; B.Tech: Instructor's permission
+
+---
+Course: CVL841
+Pre: M.Tech: CVL741; B.Tech: Instructor's permission
+
+---
+Course: CVL842
+Pre: M.Tech: CVL741, CVL742; B.Tech: CVL261 and one TE elective
+
+---
+Course: CVL844
+Pre: M.Tech: CVL740; B.Tech: Instructor's permission
+
+---
+Course: CVL845
+Pre: M.Tech: CVL740; B.Tech: Instructor's permission
+
+---
+Course: CVL846
+Pre: M.Tech: CVL741 and CVL742; B.Tech: Instructor's permission
+
+---
+Course: CVL847
+Pre: M.Tech: CVL741; B.Tech: Instructor's permission
+
+---
+Course: CVL848
+Pre: CVL741 & CVL748 or Instructors' permission
+
+---
+Course: CVL850
+Pre: M.Tech: CVL742 else Instructor's permission (including B.Tech)
+
+---
+Course: CVL851
+Pre: CVL740 or CVL741 or CVL742 or Instructor's permission
+
+---
+Course: CVP121
+Pre: CVL121 or concurrent with CVL121
+
+---
+Course: CVP222
+Pre: CVL222 or concurrent with CVL222
+
+---
+Course: CVP242
+Pre: CVL242 or Concurrent with CVL242
+
+---
+Course: CVP261
+Pre: CVL261 or Concurrent with CVL261
+
+---
+Course: CVP281
+Pre: CVL281 or Concurrent with CVL281 Experiments on Open Channel Flow Hydraulics, Boundary Layer Theory, Pipe flow, Sediment transport.
+
+---
+Course: CVP321
+Pre: CVL321 or Concurrent with CVL321
+
+---
+Course: CVP441
+Pre: CVL243, CVL342 Part-I Concrete Structures
+
+---
+Course: CVP810
+Pre: Rock Mechanics Lab-I CVP710
+
+---
+Course: CVS754
+Pre: Instructor's permission
+
+---
+Course: DDD310
+Pre: students should have completed core design courses up to 4th semester successfully.
+
+---
+Course: DDL215
+Pre: Combinations of Courses: e.g. (XYZ123 & XYW214) / XYZ234
+
+---
+Course: DDL722
+Pre: 30 Credits
+
+---
+Course: DDL725
+Pre: DDP731 or (DDL111, DDL116, DDL125, and DDL126)
+
+---
+Course: DDL733
+Pre: Prefer students to have taken Materials and Prototyping and Prototyping in IoT courses in Department of Design or similar courses from other departments.
+
+---
+Course: DDL752
+Pre: Materials and Prototyping, Prototyping in IoT, Qualitative and Quantitative methods in design courses from Department of Design  courses from other departments.
+
+---
+Course: ELL302
+Pre: ELL231 (EE3) / ELL211 (EE1)
+
+---
+Course: ELL304
+Pre: ELL101 and ELL202 and (ELL211 or ELL231)
+
+---
+Course: ELL455
+Pre: to be decided by instructor
+
+---
+Course: ELL456
+Pre: to be decided by the instructor
+
+---
+Course: ELL459
+Pre: to be decided by the instructor
+
+---
+Course: ELL460
+Pre: to be decided by the instructor
+
+---
+Course: ELL708
+Pre: to be decided by the instructor
+
+---
+Course: ELL721
+Pre: Only for MBA students of Bharti School, Audit for others
+
+---
+Course: ELL737
+Pre: ELL218, ELL111, or ELL732 
+
+---
+Course: ELL739
+Pre: ELL732(PG)
+
+---
+Course: ELL740
+Pre: Any course on MOS devices or Microelectronics or Physical Electronics or VLSI technology
+
+---
+Course: ELL743
+Pre: ELL218, ELL111(UG), ELL732(PG)
+
+---
+Course: ELL745
+Pre: ELL732(PG)
+
+---
+Course: ELL747
+Pre: ELL202 or circuit theory
+
+---
+Course: ELV451
+Pre: to be decided by the instructor
+
+---
+Course: ELV700
+Pre: to be decided by the instructor
+
+---
+Course: ELV730
+Pre: to be decide by instructor
+
+---
+Course: ELV731
+Pre: to be decided by the instructor
+
+---
+Course: ELV781
+Pre: to be decided by the instructor
+
+---
+Course: ESL300
+Pre: EC60 (for UG students)
+
+---
+Course: ESL330
+Pre: EC60 (for UG students)
+
+---
+Course: ESL340
+Pre: EC60 (for UG students)
+
+---
+Course: ESL350
+Pre: EC60 (for UG students)
+
+---
+Course: ESL371
+Pre: MCL140, APL106 or APL105, ESL200, ESL262, ESL263
+
+---
+Course: ESL373
+Pre: MCL141/MCL142 or MCL140 & MCL242 or CLL121, CLL231 & CLL251
+
+---
+Course: ESL726
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL731
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL742
+Pre: EC 75 (for UG students in Minor Area)
+
+---
+Course: ESL748
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL776
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL784
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL785
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL786
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: ESL875
+Pre: EC 100 (for UG Students in Minor Area)
+
+---
+Course: ESP713
+Pre: EC 75 (for UG Students in Minor Area)
+
+---
+Course: MCL330
+Pre: To be defined by the course coordinator at the time of offering the course if required
+
+---
+Course: MCL331
+Pre: for ME1: MCL131, MCL231 for ME2: MCL136
+
+---
+Course: MCL334
+Pre: ELL101 and APL106 or MCL141
+
+---
+Course: MCL343
+Pre: (MCL140 and MCL242) or MCL141
+
+---
+Course: MCL344
+Pre: (MCL140 and MCL242) or MCL141
+
+---
+Course: MCL348
+Pre: APL106 and (MCL242 or MCL141)
+
+---
+Course: MCL350
+Pre: Product-related core courses, as specified by the instructor
+
+---
+Course: MCL370
+Pre: To be defined by the course coordinator at the time of offering the course if required
+
+---
+Course: MCL380
+Pre: courses as specified by the instructor and EC 50 Course details shall be announced at the time of offering of the course. The assessment will be based on a combination of assignments, quizzes, and term paper and tests.
+
+---
+Course: MCL431
+Pre: for ME1: MCL131, MCL231 for ME2: MCL136
+
+---
+Course: MCL441
+Pre: (MCL242 or MCL141) and MCP301
+
+---
+Course: MCL442
+Pre: APL106 and [(MCL140 & MCL242) or MCL141] and EC 80
+
+---
+Course: MCL443
+Pre: MCL140 & MCL242 or MCL141 and EC 80
+
+---
+Course: MCL711
+Pre: For ME1/ME2: APL100, APL104, MCL211
+
+---
+Course: MCL712
+Pre: For ME1/ME2 and other UG students: APL100, MTL100, MTL101
+
+---
+Course: MCL713
+Pre: For ME1/ME2: APL100, MTL100, MTL101
+
+---
+Course: MCL714
+Pre: For ME1/ME2: APL100, APL104, MCL211, MCL311
+
+---
+Course: MCL716
+Pre: MCL212, ELL100 for UG
+
+---
+Course: MCL717
+Pre: MCL211 for UG
+
+---
+Course: MCL718
+Pre: MCL211 for UG
+
+---
+Course: MCL732
+Pre: MTL101, APL106 for UG students
+
+---
+Course: MCL747
+Pre: For UG:AML140, MCL111, MCL211
+
+---
+Course: MCL776
+Pre: For UG: MCL131 or MCL132; for PG MCL769
+
+---
+Course: MCL795
+Pre: For UG students: MCL231 or MCL131
+
+---
+Course: MCL797
+Pre: For UG: AML140 and MCL111; For Non-ME PG: MCL799
+
+---
+Course: MCL799
+Pre: For UG: APL100: Engineering Mechanics; For 428PG: None
+
+---
+Course: MCL826
+Pre: APL106 and MCL242 or their equivalents for UG students only
+
+---
+Course: MCP331
+Pre: for ME1: MCL131, MCL231 for ME2: MCL136
+
+---
+Course: MCV390
+Pre: Thermodynamics, Heat Transfer, Energy Conversion
+
+---
+Course: MDL802
+Pre: MSL707 and 708 for MBA students, MSL302 for B.Tech. Students
+
+---
+Course: MDL803
+Pre: MSL708 for MBA, MSL302 for B. Tech students
+
+---
+Course: MDL806
+Pre: MSL708 for MBA, MSL302 for B.Tech Students
+
+---
+Course: MLL730
+Pre: MLL702 for PG, MLL103 for UG
+
+---
+Course: MLL734
+Pre: MLL701  for PG, MLL102  for UG
+
+---
+Course: MLL738
+Pre: PYL100, MLL211  for UG
+
+---
+Course: MLL744
+Pre: for UG: APL102 and for PG: Basics of phase transformations, thermodynamics and kinetics
+
+---
+Course: MLL748
+Pre: Introductory courses on materials, such as CLL141, MLL100; MLL702, CLL732, CLL252, MLL713, or some
+
+---
+Course: MLL750
+Pre: MLL100 or some equivalent basic course in materials engineering or MLL101, MLL202, APL108, APL104 and MLL251 (for UG programme), CLL732, CML681, CML729, ELL211, PYL114 or some equivalent courses on crystal structures and thermodynamics.
+
+---
+Course: MLL752
+Pre: MLL101, MLL202, MLL251, PYL114 or some equivalent course in crystallography, APL104/APL105, APL108 is preferred for students from other departments, PYL701 or some introductory course in materials engineering for PG students.
+
+---
+Course: MLL760
+Pre: UG students: MLL213 or MLL212
+
+---
+Course: MSL890
+Pre: MSL708 for MBA, MSL302 for B. Tech students
+
+---
+Course: MTL734
+Pre: MTL106 (Probability and Stochastic Process)/ MTL108 (Introduction to Statistics)/ MTL601 (Probability and Statistics)
+
+---
+Course: MTL736
+Pre: MTLI22 or MTL506
+
+---
+Course: MTL781
+Pre: MTL107/MTL509 and MTL411/MTL602
+
+---
+Course: MTL799
+Pre: 90 Credits at the UG level
+
+---
+Course: PYL321
+Pre: PYL201 (Only for students opting for Minor Area)
+
+---
+Course: PYL707
+Pre: PYL563 (for MSc), PYL114 (for UG)
+
+---
+Course: PYL711
+Pre: PYL127 & PYL121 OR PYL551 & PYL553
+
+---
+Course: PYL745
+Pre: PYL558/PYL202/equivalent
+
+---
+Course: PYL746
+Pre: PYL558/PYL202/equivalent
+
+---
+Course: PYL750
+Pre: Solid State Physics and Quantum Mechanics. PYL125 or PYL563  and PYL122 or PYL555  Berry Phase, Hall Conductance and Chern number, Time Reversal Symmetry, Kramers Theorem, Concept of Edge modes, The bulk- edge correspondence, Graphene Edge Modes, Dirac Fermions, Stability of Dirac Points with Inversion and Time Reversal, Haldane's Graphene Model, Twisted Angle Graphene, Topological Insulators, Role of Spin-orbit coupling, The Kane and Mele Model, Z2 Invariants, Experimental Consequences of the Z2 Topological Invariant, 3D and
+
+---
+Course: RDL745
+Pre: Minimum earned Credits as per 700 level course requirements
+
+---
+Course: SBL706
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL707
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL708
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL709
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL710
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL711
+Pre: Pre-requisite(s): SBL100 and SBL201 () and EC 75
+
+---
+Course: SBL712
+Pre: SBL100 and either SBL201 or BEL204 or BEL311 and EC 75
+
+---
+Course: SBL713
+Pre: SBL100 and either BEL204 or BEL311 and EC 75
+
+---
+Course: SBL720
+Pre: As per IITD norms for 700 level courses EC 75 and BEL110 or CYL110 or CYL120 or Equivalent Fundamentals of Chromosomes and Cells, Fundamentals of Gene
+
+---
+Course: SBL721
+Pre: Pre-requisite(s): As per IITD norms for 700 level courses EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL722
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL723
+Pre: EC 75 and SBL100/BBL131/CML101/ Equivalent
+
+---
+Course: SBL724
+Pre: EC 75 with SBL100 or Equivalent
+
+---
+Course: SBL725
+Pre: Pre-requisite(s): EC 75 and SBL100 for UG students
+
+---
+Course: SBL726
+Pre: Pre-requisite(s): EC 75 and SBL100 for UG students
+
+---
+Course: SBL727
+Pre: EC 75 and SBL100 for UG students
+
+---
+Course: SBL728
+Pre: Pre-requisite(s): SBL100 or BBL110 or BBL131 
+
+---
+Course: SBL729
+Pre: SBL100 and EC75 for UG students
+
+---
+Course: SBL750
+Pre: Pre-requisite(s): SBL100 and SBL201 () and EC 75
+
+---
+Course: SBL751
+Pre: Pre-requisite(s): SBL100 and SBL201 () and EC 75
+
+---
+Course: SBV892
+Pre: EC 75 with SBL100/ BBL131
+
+---
+Course: SBV893
+Pre: Pre-requisite(s): EC 75 with SBL100 or Equivalent
+
+---
+Course: SBV895
+Pre: EC 75 with SBL100 or Equivalent
+
+---
+Course: SBV896
+Pre: Pre-requisite(s): SBL100/BBL110/BBL131/equivalent
+
+---
+Course: SBV897
+Pre: Pre-requisite(s): EC100 and SBL100 for UG students
+
+---
+Course: SBV898
+Pre: EC100 and SBL100 for UG students. None for PG students
+
+---
+Course: SBV899
+Pre: CML101 or SBL100 or BBL131 for UG students. None for PG students.
+
+---
+Course: TXD301
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC65
+
+---
+Course: TXD401
+Pre: TXL361/TXP361/TXL371/TXL372 and EC 100
+
+---
+Course: TXD402
+Pre: EC100 and Minimum B Grade in TXD401 Continuation of planned tasks started in Major Project Part I, TXD411, to completion, thesis writing and presentation of complete work of progress for award of grade.
+
+---
+Course: TXL719
+Pre: TXL212/TXL221/ TXL231 and EC75
+
+---
+Course: TXL724
+Pre: TXL221/TXL222 and EC75
+
+---
+Course: TXL751
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC75
+
+---
+Course: TXL766
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL774
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL775
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL777
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL780
+Pre: : EC 75 for TT1; None for others
+
+---
+Course: TXL781
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL782
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXL785
+Pre: TXL111/TXL221 for UG students
+
+---
+Course: TXL786
+Pre: None for TTF, TTE, TTC and TTZ; TXL241, TXL242, TXP241, TXP242 for TT1
+
+---
+Course: TXP361
+Pre: (TXL222/TXL221) and (TXL232/TXL231) Introduction to textile testing; Experiments related to the lecture course entitled “Evaluation of Textile Material”.
+
+---
+Course: TXP749
+Pre: B.Tech. Textile / BE Textile / M.Sc. Textile Project based experiments in dyeing and colouration, dyeing of fabric, visual and instrumental assessment of shade variation. Subjective vs objective evaluation, Shade sorting, whiteness index. Azo dye synthesis and characterization.
+
+---
+Course: TXP751
+Pre: B Tech. Textile/ BE Textile/ MSc Textile Evaluation, characterization and analysis of textile auxiliaries, chemicals, dyes, and water, Project based experiments for evaluation of the dyed and finished textiles.
+
+---
+Course: TXR301
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC65
+
+---
+Course: TXT800
+Pre: Pre-requisite(s): TXL747/TXL753/TXL749
+
+---
+Course: TXV701
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC 75
+
+---
+Course: TXV702
+Pre: TXL222/TXL232 and EC 75
+
+---
+Course: TXV703
+Pre: TTXL222/TXL232 and EC 75
+
+---
+Course: TXV706
+Pre: TXL211/TXL221/TXL222/TXL231/TXL232 and EC 75
+
+---
+Course: VEV742
+Pre: At least 50 earned Credits for undergraduate students.
+
+---

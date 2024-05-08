@@ -1,0 +1,200 @@
+Course: AIL721
+Pre: Any one of ELL409 / ELL784 / AIL701 / COL774/ COL341
+
+---
+Course: AIL722
+Pre: Any one of ELL409 / ELL784 / AIL701 / AIL721/ COL341 / COL774
+
+---
+Course: AIL861
+Pre: Pre-requisite(s): One of COL761, COL774, COL333 or COL671
+
+---
+Course: AIL862
+Pre: One of COL774, or COL780, or ELL793
+
+---
+Course: APD311
+Pre: EC 50, 12 Credits of Minor Area in Computational Mechanics
+
+---
+Course: APL306
+Pre: APL104 O
+
+---
+Course: APL310
+Pre: APL104/APL105/APL108 EC 50
+
+---
+Course: APL331
+Pre: APL104/APL105/APL108 EC50
+
+---
+Course: APL410
+Pre: APL104 course in Basic Solid Mechanics
+
+---
+Course: APL747
+Pre: For UG: APL101/MTL106/MTL108  and EC 75 For PG: NO Pre-requisites required.
+
+---
+Course: APV808
+Pre: AML731 or APL796 or an equivalent course in Linear Elasticity
+
+---
+Course: ASL765
+Pre: Either ASL320 or ASL340 for UG Students; None for PG students
+
+---
+Course: ASL824
+Pre: Any one of ASL733, ASL734
+
+---
+Course: ASL827
+Pre: Either ASL734 or ASL737
+
+---
+Course: BBL733
+Pre: BBL131, BBL132, BBL231 or Masters’ degree in Bioscience
+
+---
+Course: BBL741
+Pre: BBL131 BBL231 or Masters’ degree in Bioscience
+
+---
+Course: BBL742
+Pre: BBL132, BBL331 or Bachelor’s degree in Engineering or Masters’ degree in Science
+
+---
+Course: BBL743
+Pre: BBL131, BBL331 or Masters’ degree in Bioscience
+
+---
+Course: BBL747
+Pre: BBL131 or Masters’ degree in Bioscience
+
+---
+Course: BBL771
+Pre: Basic biology (Class 10 level)
+
+---
+Course: BBL772
+Pre: Basic Mathematics (Class 10 level)
+
+---
+Course: BBL773
+Pre: Basic Mathematics (Class 10 level)
+
+---
+Course: BBV750
+Pre: Undergraduate or M.Sc. level in Biochem/ Biology or Chem. Engg.
+
+---
+Course: BML713
+Pre: 75 earned Credits (only for UG students)
+
+---
+Course: BML714
+Pre: 60 Credits for Outside CBME Students
+
+---
+Course: BML738
+Pre: 90 Credits for UG students. For PG students with mathematics till 10+2 level only, bridge course (BMV702) is compulsory.
+
+---
+Course: BML772
+Pre: 50 Credits
+
+---
+Course: BML774
+Pre: APL100 for B.Tech students of all departments
+
+---
+Course: BML781
+Pre: 75 Credits for UG students
+
+---
+Course: BML880
+Pre: BMV701 for CBME students with background in sciences and medicine. ELL202 or BMV701 for B.Tech. students of other departments.
+
+---
+Course: CLL798
+Pre: To be declared by Instructor
+
+---
+Course: CLL799
+Pre: To be declared by Instructor
+
+---
+Course: CLV797
+Pre: To be declared by Instructor
+
+---
+Course: COL775
+Pre: Any one of ELL409/ELL774 / COL341/ COL333/ COL671
+
+---
+Course: COL777
+Pre: Any one of ELL409/ELL784/COL774/COL341/ COL333/COL671
+
+---
+Course: COL778
+Pre: Any one of COL333 / COL774 / ELL784 / ELL409
+
+---
+Course: COL864
+Pre: COL333 / COL671 / Equivalent
+
+---
+Course: COL865
+Pre: Permission of the Instructor
+
+---
+Course: COL868
+Pre: COL334 / COL672 / Equivalent
+
+---
+Course: COL871
+Pre: COL765 or (COL226+COL202)
+
+---
+Course: COL874
+Pre: COL765 or (COL226+COL202)
+
+---
+Course: COL876
+Pre: COL765 or (COL703+COL226)
+
+---
+Course: COP315
+Pre: COL215, COL216  courses
+
+---
+Course: COV880
+Pre: Permission of Instructor
+
+---
+Course: COV881
+Pre: Permission of Instructor
+
+---
+Course: COV884
+Pre: COL333 / COL671 / Equivalent
+
+---
+Course: COV887
+Pre: COL334 OR COl 672
+
+---
+Course: CVD753
+Pre: M.Tech.: Nil
+
+---
+Course: CVD757
+Pre: programme core Credits+minimum 24 Credits
+
+---
+Course: CVD758
+Pre: CVD757 must be passed
+
+---

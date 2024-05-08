@@ -1,0 +1,5462 @@
+{
+    "AID710": {
+        "COURSE": "EC75"
+    },
+    "AIL701": {},
+    "AIL711": {
+        "COURSE": "AIL701"
+    },
+    "AIL712": {
+        "COURSE": "AIL701"
+    },
+    "AIL741": {
+        "COURSE": "COL761"
+    },
+    "AIL742": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "MTL106"
+            }
+        ]
+    },
+    "AIL801": {},
+    "AIL821": {
+        "AND": [
+            {
+                "COURSE": "ELL409"
+            },
+            {
+                "COURSE": "ELL784"
+            },
+            {
+                "COURSE": "AIL701"
+            },
+            {
+                "COURSE": "COL774"
+            },
+            {
+                "COURSE": "AIL721"
+            }
+        ]
+    },
+    "AIL841": {
+        "AND": [
+            {
+                "COURSE": "COL761"
+            },
+            {
+                "COURSE": "COL774"
+            },
+            {
+                "COURSE": "COL764"
+            },
+            {
+                "COURSE": "AIL741"
+            }
+        ]
+    },
+    "AIP701": {},
+    "AIS710": {
+        "COURSE": "EC75"
+    },
+    "AIV790": {
+        "AND": [
+            {
+                "COURSE": "COL333"
+            },
+            {
+                "COURSE": "COL671"
+            },
+            {
+                "COURSE": "COL774"
+            }
+        ]
+    },
+    "AMD813": {},
+    "AMD814": {},
+    "AMD897": {},
+    "AMD899": {},
+    "AML701": {},
+    "AML702": {},
+    "AML704": {},
+    "AML706": {},
+    "AML713": {},
+    "AML714": {},
+    "AML715": {},
+    "AML731": {},
+    "AML732": {},
+    "AML733": {},
+    "AML751": {},
+    "AML791": {},
+    "AML792": {},
+    "AML793": {},
+    "AML794": {},
+    "AML795": {},
+    "AML811": {},
+    "AML816": {},
+    "AML820": {},
+    "AML821": {},
+    "AML832": {},
+    "AML833": {},
+    "AML834": {},
+    "AML837": {},
+    "AML838": {},
+    "AML840": {},
+    "AML841": {},
+    "AML872": {},
+    "AML873": {},
+    "AMP777": {},
+    "AMS801": {},
+    "AMS802": {},
+    "APD310": {
+        "COURSE": "EC50"
+    },
+    "APD811": {},
+    "APD812": {},
+    "APD895": {},
+    "APL100": {},
+    "APL101": {},
+    "APL103": {},
+    "APL104": {
+        "COURSE": "APL100"
+    },
+    "APL105": {
+        "COURSE": "APL100"
+    },
+    "APL106": {
+        "COURSE": "APL100"
+    },
+    "APL107": {
+        "COURSE": "APL100"
+    },
+    "APL108": {
+        "COURSE": "APL100"
+    },
+    "APL190": {},
+    "APL203": {
+        "COURSE": "APL100"
+    },
+    "APL205": {
+        "AND": [
+            {
+                "COURSE": "APL106"
+            },
+            {
+                "COURSE": "MTL107"
+            }
+        ]
+    },
+    "APL206": {},
+    "APL207": {},
+    "APL302": {},
+    "APL311": {
+        "COURSE": "APL104"
+    },
+    "APL321": {
+        "AND": [
+            {
+                "COURSE": "APL106"
+            },
+            {
+                "COURSE": "MTL107"
+            }
+        ]
+    },
+    "APL340": {
+        "AND": [
+            {
+                "COURSE": "APL100"
+            },
+            {
+                "COURSE": "EC50"
+            }
+        ]
+    },
+    "APL360": {
+        "AND": [
+            {
+                "COURSE": "APL100"
+            },
+            {
+                "COURSE": "EC50"
+            }
+        ]
+    },
+    "APL361": {
+        "COURSE": "APL106"
+    },
+    "APL380": {
+        "AND": [
+            {
+                "COURSE": "APL100"
+            },
+            {
+                "COURSE": "EC50"
+            }
+        ]
+    },
+    "APL390": {
+        "COURSE": "APL103"
+    },
+    "APL402": {
+        "AND": [
+            {
+                "COURSE": "APL104"
+            },
+            {
+                "COURSE": "APL106"
+            }
+        ]
+    },
+    "APL405": {},
+    "APL411": {},
+    "APL412": {
+        "COURSE": "APL203"
+    },
+    "APL415": {
+        "AND": [
+            {
+                "COURSE": "APL311"
+            },
+            {
+                "COURSE": "APL331"
+            }
+        ]
+    },
+    "APL421": {
+        "COURSE": "APL720"
+    },
+    "APL422": {
+        "AND": [
+            {
+                "COURSE": "APL106"
+            },
+            {
+                "COURSE": "APL321"
+            }
+        ]
+    },
+    "APL424": {},
+    "APL431": {
+        "AND": [
+            {
+                "COURSE": "APL100"
+            },
+            {
+                "COURSE": "APL104"
+            }
+        ]
+    },
+    "APL432": {
+        "AND": [
+            {
+                "COURSE": "APL104"
+            },
+            {
+                "COURSE": "APL106"
+            }
+        ]
+    },
+    "APL433": {
+        "COURSE": "APL104"
+    },
+    "APL434": {
+        "COURSE": "APL104"
+    },
+    "APL435": {
+        "AND": [
+            {
+                "COURSE": "APL311"
+            },
+            {
+                "COURSE": "APL331"
+            }
+        ]
+    },
+    "APL440": {
+        "COURSE": "APL310"
+    },
+    "APL450": {
+        "COURSE": "APL104"
+    },
+    "APL452": {
+        "AND": [
+            {
+                "COURSE": "MTL107"
+            },
+            {
+                "COURSE": "APL203"
+            },
+            {
+                "COURSE": "COL100"
+            }
+        ]
+    },
+    "APL491": {},
+    "APL701": {},
+    "APL702": {},
+    "APL703": {},
+    "APL705": {
+        "COURSE": "EC75"
+    },
+    "APL707": {},
+    "APL710": {
+        "COURSE": "EC75"
+    },
+    "APL711": {},
+    "APL713": {},
+    "APL715": {},
+    "APL716": {},
+    "APL720": {
+        "COURSE": "EC75"
+    },
+    "APL734": {},
+    "APL736": {
+        "COURSE": "EC75"
+    },
+    "APL737": {},
+    "APL740": {
+        "COURSE": "EC75"
+    },
+    "APL742": {},
+    "APL745": {},
+    "APL753": {
+        "COURSE": "EC75"
+    },
+    "APL764": {
+        "COURSE": "EC75"
+    },
+    "APL765": {
+        "COURSE": "EC75"
+    },
+    "APL767": {
+        "COURSE": "EC75"
+    },
+    "APL771": {},
+    "APL774": {},
+    "APL775": {},
+    "APL776": {},
+    "APL796": {},
+    "APL805": {
+        "COURSE": "APL705"
+    },
+    "APL815": {},
+    "APL831": {},
+    "APL835": {},
+    "APL871": {},
+    "APL8M4": {},
+    "APV303": {
+        "AND": [
+            {
+                "COURSE": "APL100"
+            },
+            {
+                "COURSE": "APL104"
+            },
+            {
+                "COURSE": "APL106"
+            }
+        ]
+    },
+    "APV710": {
+        "COURSE": "EC75"
+    },
+    "APV779": {},
+    "ASC869": {},
+    "ASD390": {},
+    "ASD881": {},
+    "ASD882": {
+        "COURSE": "ASD881"
+    },
+    "ASL320": {},
+    "ASL340": {},
+    "ASL350": {},
+    "ASL360": {},
+    "ASL370": {},
+    "ASL375": {},
+    "ASL380": {},
+    "ASL385": {},
+    "ASL730": {},
+    "ASL732": {},
+    "ASL733": {},
+    "ASL734": {},
+    "ASL735": {},
+    "ASL736": {},
+    "ASL737": {},
+    "ASL738": {},
+    "ASL750": {},
+    "ASL751": {},
+    "ASL752": {},
+    "ASL753": {},
+    "ASL754": {},
+    "ASL755": {},
+    "ASL756": {},
+    "ASL757": {},
+    "ASL758": {},
+    "ASL759": {},
+    "ASL760": {},
+    "ASL761": {},
+    "ASL762": {},
+    "ASL763": {},
+    "ASL821": {
+        "COURSE": "ASL734"
+    },
+    "ASL822": {},
+    "ASL823": {},
+    "ASL826": {},
+    "ASL851": {},
+    "ASL852": {},
+    "ASL853": {},
+    "ASL854": {},
+    "ASL856": {},
+    "ASP731": {},
+    "ASP820": {},
+    "ASP825": {},
+    "ASP855": {},
+    "ASP867": {},
+    "ASP868": {},
+    "ASS800": {},
+    "ASV862": {},
+    "ASV863": {},
+    "ASV864": {},
+    "ASV865": {},
+    "ASV866": {},
+    "ASV892": {},
+    "BBD351": {
+        "COURSE": "EC60"
+    },
+    "BBD451": {},
+    "BBD452": {},
+    "BBL131": {},
+    "BBL132": {},
+    "BBL133": {},
+    "BBL231": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "BBL132"
+            }
+        ]
+    },
+    "BBL331": {
+        "AND": [
+            {
+                "COURSE": "BBL132"
+            },
+            {
+                "COURSE": "BBL133"
+            }
+        ]
+    },
+    "BBL341": {
+        "AND": [
+            {
+                "COURSE": "CVL100"
+            },
+            {
+                "COURSE": "EC80"
+            }
+        ]
+    },
+    "BBL342": {
+        "COURSE": "BBL131"
+    },
+    "BBL343": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "EC60"
+            }
+        ]
+    },
+    "BBL431": {
+        "COURSE": "EC25"
+    },
+    "BBL432": {
+        "COURSE": "CLL231"
+    },
+    "BBL433": {
+        "COURSE": "BBL431"
+    },
+    "BBL434": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "BBL132"
+            }
+        ]
+    },
+    "BBL441": {},
+    "BBL442": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "BBL132"
+            },
+            {
+                "COURSE": "BBL231"
+            }
+        ]
+    },
+    "BBL443": {
+        "COURSE": "BBL331"
+    },
+    "BBL444": {
+        "COURSE": "CLL261"
+    },
+    "BBL445": {},
+    "BBL446": {
+        "AND": [
+            {
+                "COURSE": "PYL101"
+            },
+            {
+                "COURSE": "BBL131"
+            }
+        ]
+    },
+    "BBL447": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "EC90"
+            }
+        ]
+    },
+    "BBL731": {
+        "AND": [
+            {
+                "COURSE": "BBL331"
+            },
+            {
+                "COURSE": "BBL432"
+            },
+            {
+                "COURSE": "BBL433"
+            }
+        ]
+    },
+    "BBL732": {
+        "AND": [
+            {
+                "COURSE": "APL100"
+            },
+            {
+                "COURSE": "CLL251"
+            },
+            {
+                "COURSE": "CLL252"
+            },
+            {
+                "COURSE": "BBL331"
+            },
+            {
+                "COURSE": "BBL432"
+            }
+        ]
+    },
+    "BBL734": {
+        "AND": [
+            {
+                "COURSE": "BBL331"
+            },
+            {
+                "COURSE": "BBL431"
+            }
+        ]
+    },
+    "BBL735": {
+        "AND": [
+            {
+                "COURSE": "BBL231"
+            },
+            {
+                "COURSE": "BBL733"
+            }
+        ]
+    },
+    "BBL736": {
+        "AND": [
+            {
+                "COURSE": "BBL331"
+            },
+            {
+                "COURSE": "BBL432"
+            },
+            {
+                "COURSE": "BBL433"
+            }
+        ]
+    },
+    "BBL737": {
+        "COURSE": "BBL131"
+    },
+    "BBL740": {
+        "COURSE": "BBL331"
+    },
+    "BBL744": {},
+    "BBL745": {},
+    "BBL746": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "BBL331"
+            }
+        ]
+    },
+    "BBL748": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "BBL231"
+            },
+            {
+                "COURSE": "BBL733"
+            }
+        ]
+    },
+    "BBL749": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "BBL132"
+            },
+            {
+                "COURSE": "BBL231"
+            }
+        ]
+    },
+    "BBL750": {},
+    "BBL751": {},
+    "BBL752": {
+        "COURSE": "BBL132"
+    },
+    "BBL754": {
+        "COURSE": "BBL132"
+    },
+    "BBL756": {
+        "COURSE": "BBL231"
+    },
+    "BBL757": {},
+    "BBL774": {
+        "COURSE": "BBL771"
+    },
+    "BBL775": {
+        "AND": [
+            {
+                "COURSE": "BBL773"
+            },
+            {
+                "COURSE": "BBL772"
+            }
+        ]
+    },
+    "BBL810": {},
+    "BBL820": {},
+    "BBL830": {},
+    "BBL850": {},
+    "BBP332": {
+        "AND": [
+            {
+                "COURSE": "BBL131"
+            },
+            {
+                "COURSE": "BBL132"
+            }
+        ]
+    },
+    "BBP840": {},
+    "BBV350": {},
+    "BMD742": {},
+    "BMD801": {},
+    "BMD802": {},
+    "BML300": {
+        "AND": [
+            {
+                "COURSE": "APL100"
+            },
+            {
+                "COURSE": "ELL101"
+            },
+            {
+                "COURSE": "MCP100"
+            }
+        ]
+    },
+    "BML330": {
+        "COURSE": "EC60"
+    },
+    "BML401": {
+        "COURSE": "BML300"
+    },
+    "BML700": {},
+    "BML710": {},
+    "BML720": {},
+    "BML735": {},
+    "BML737": {},
+    "BML740": {},
+    "BML741": {},
+    "BML743": {},
+    "BML750": {},
+    "BML760": {},
+    "BML770": {},
+    "BML780": {},
+    "BML790": {},
+    "BML800": {},
+    "BML810": {},
+    "BML815": {},
+    "BML820": {},
+    "BML830": {},
+    "BML850": {},
+    "BML860": {},
+    "BMP743": {},
+    "BMV700": {},
+    "BMV701": {},
+    "BMV702": {},
+    "BMV703": {},
+    "BMV704": {},
+    "BMV840": {},
+    "BMV870": {},
+    "BSD895": {},
+    "BSP710": {
+        "AND": [
+            {
+                "COURSE": "ELL205"
+            },
+            {
+                "COURSE": "ELL411"
+            }
+        ]
+    },
+    "BVQ706": {},
+    "CLD411": {},
+    "CLD412": {
+        "COURSE": "CLD411"
+    },
+    "CLD413": {
+        "COURSE": "CLD411"
+    },
+    "CLD414": {
+        "COURSE": "CLD411"
+    },
+    "CLD415": {
+        "COURSE": "CLD411"
+    },
+    "CLD771": {},
+    "CLD781": {},
+    "CLD782": {
+        "COURSE": "CLD781"
+    },
+    "CLD880": {},
+    "CLD881": {},
+    "CLD882": {
+        "COURSE": "CLD881"
+    },
+    "CLD895": {},
+    "CLL110": {},
+    "CLL111": {},
+    "CLL113": {},
+    "CLL121": {},
+    "CLL122": {},
+    "CLL133": {},
+    "CLL141": {},
+    "CLL222": {
+        "COURSE": "CLL122"
+    },
+    "CLL231": {
+        "COURSE": "CLL110"
+    },
+    "CLL251": {
+        "COURSE": "CLL110"
+    },
+    "CLL252": {
+        "COURSE": "CLL110"
+    },
+    "CLL261": {
+        "AND": [
+            {
+                "COURSE": "MTL100"
+            },
+            {
+                "COURSE": "CLL111"
+            }
+        ]
+    },
+    "CLL271": {
+        "COURSE": "CLL110"
+    },
+    "CLL296": {
+        "COURSE": "CLL121"
+    },
+    "CLL331": {
+        "AND": [
+            {
+                "COURSE": "CLL110"
+            },
+            {
+                "COURSE": "CLL231"
+            }
+        ]
+    },
+    "CLL352": {
+        "COURSE": "CLL252"
+    },
+    "CLL361": {
+        "COURSE": "CLL261"
+    },
+    "CLL371": {
+        "AND": [
+            {
+                "COURSE": "CLL252"
+            },
+            {
+                "COURSE": "CLL122"
+            }
+        ]
+    },
+    "CLL390": {
+        "COURSE": "CLL231"
+    },
+    "CLL402": {
+        "COURSE": "CLL371"
+    },
+    "CLL475": {
+        "COURSE": "CLL371"
+    },
+    "CLL477": {
+        "COURSE": "CLL371"
+    },
+    "CLL701": {},
+    "CLL702": {},
+    "CLL703": {},
+    "CLL705": {
+        "AND": [
+            {
+                "COURSE": "CLL110"
+            },
+            {
+                "COURSE": "CLL121"
+            }
+        ]
+    },
+    "CLL706": {
+        "AND": [
+            {
+                "COURSE": "CLL231"
+            },
+            {
+                "COURSE": "CLL121"
+            }
+        ]
+    },
+    "CLL707": {
+        "AND": [
+            {
+                "COURSE": "MTL101"
+            },
+            {
+                "COURSE": "CLL331"
+            },
+            {
+                "COURSE": "CLL352"
+            }
+        ]
+    },
+    "CLL720": {},
+    "CLL721": {},
+    "CLL722": {},
+    "CLL723": {},
+    "CLL724": {},
+    "CLL725": {
+        "COURSE": "CLL222"
+    },
+    "CLL726": {
+        "COURSE": "CLL222"
+    },
+    "CLL727": {
+        "COURSE": "CLL222"
+    },
+    "CLL728": {
+        "COURSE": "CLL122"
+    },
+    "CLL729": {
+        "AND": [
+            {
+                "COURSE": "CLL231"
+            },
+            {
+                "COURSE": "CLL331"
+            }
+        ]
+    },
+    "CLL730": {
+        "COURSE": "CLL110"
+    },
+    "CLL731": {
+        "COURSE": "CLL110"
+    },
+    "CLL732": {
+        "COURSE": "CLL121"
+    },
+    "CLL733": {
+        "AND": [
+            {
+                "COURSE": "CLL122"
+            },
+            {
+                "COURSE": "CLL222"
+            }
+        ]
+    },
+    "CLL734": {
+        "AND": [
+            {
+                "COURSE": "CLL122"
+            },
+            {
+                "COURSE": "CLL222"
+            }
+        ]
+    },
+    "CLL735": {
+        "COURSE": "CLL352"
+    },
+    "CLL736": {
+        "AND": [
+            {
+                "COURSE": "CLL122"
+            },
+            {
+                "COURSE": "CLL222"
+            }
+        ]
+    },
+    "CLL742": {
+        "AND": [
+            {
+                "COURSE": "CLL141"
+            },
+            {
+                "COURSE": "CLL271"
+            }
+        ]
+    },
+    "CLL743": {
+        "COURSE": "CLL222"
+    },
+    "CLL760": {
+        "AND": [
+            {
+                "COURSE": "CLL110"
+            },
+            {
+                "COURSE": "CLL121"
+            }
+        ]
+    },
+    "CLL761": {
+        "AND": [
+            {
+                "COURSE": "MTL101"
+            },
+            {
+                "COURSE": "CLL110"
+            }
+        ]
+    },
+    "CLL762": {
+        "COURSE": "CLL113"
+    },
+    "CLL766": {
+        "AND": [
+            {
+                "COURSE": "CLL110"
+            },
+            {
+                "COURSE": "CLL121"
+            }
+        ]
+    },
+    "CLL767": {
+        "COURSE": "CLL141"
+    },
+    "CLL768": {
+        "AND": [
+            {
+                "COURSE": "CLL113"
+            },
+            {
+                "COURSE": "CLL110"
+            }
+        ]
+    },
+    "CLL769": {
+        "COURSE": "CLL110"
+    },
+    "CLL770": {
+        "COURSE": "CLL231"
+    },
+    "CLL771": {},
+    "CLL772": {
+        "COURSE": "CLL110"
+    },
+    "CLL773": {
+        "COURSE": "CLL121"
+    },
+    "CLL774": {
+        "COURSE": "CLL113"
+    },
+    "CLL775": {
+        "COURSE": "CLL122"
+    },
+    "CLL776": {
+        "COURSE": "CLL331"
+    },
+    "CLL777": {
+        "COURSE": "CLL141"
+    },
+    "CLL778": {
+        "COURSE": "CLL110"
+    },
+    "CLL779": {},
+    "CLL780": {
+        "COURSE": "CLL271"
+    },
+    "CLL781": {},
+    "CLL782": {
+        "AND": [
+            {
+                "COURSE": "CLL222"
+            },
+            {
+                "COURSE": "CLL352"
+            }
+        ]
+    },
+    "CLL783": {
+        "COURSE": "CLL261"
+    },
+    "CLL784": {
+        "AND": [
+            {
+                "COURSE": "CLL222"
+            },
+            {
+                "COURSE": "CLL352"
+            }
+        ]
+    },
+    "CLL785": {
+        "COURSE": "CLL222"
+    },
+    "CLL786": {
+        "COURSE": "CLL222"
+    },
+    "CLL787": {},
+    "CLL788": {},
+    "CLL789": {},
+    "CLL791": {
+        "COURSE": "CLL371"
+    },
+    "CLL792": {
+        "COURSE": "CLL110"
+    },
+    "CLL793": {
+        "AND": [
+            {
+                "COURSE": "CLL110"
+            },
+            {
+                "COURSE": "CLL252"
+            }
+        ]
+    },
+    "CLL794": {
+        "AND": [
+            {
+                "COURSE": "CLL222"
+            },
+            {
+                "COURSE": "CLL352"
+            }
+        ]
+    },
+    "CLP301": {
+        "AND": [
+            {
+                "COURSE": "CLL231"
+            },
+            {
+                "COURSE": "CLL251"
+            }
+        ]
+    },
+    "CLP302": {
+        "AND": [
+            {
+                "COURSE": "CLL331"
+            },
+            {
+                "COURSE": "CLL252"
+            }
+        ]
+    },
+    "CLP303": {
+        "AND": [
+            {
+                "COURSE": "CLL121"
+            },
+            {
+                "COURSE": "CLL122"
+            },
+            {
+                "COURSE": "CLL222"
+            }
+        ]
+    },
+    "CLP704": {},
+    "CLV796": {},
+    "CMD631": {},
+    "CMD641": {},
+    "CMD799": {},
+    "CMD806": {},
+    "CMD807": {},
+    "CML101": {},
+    "CML102": {},
+    "CML103": {},
+    "CML511": {},
+    "CML512": {},
+    "CML513": {},
+    "CML514": {},
+    "CML515": {},
+    "CML521": {},
+    "CML522": {},
+    "CML523": {},
+    "CML524": {},
+    "CML525": {},
+    "CML526": {},
+    "CML631": {},
+    "CML661": {},
+    "CML662": {},
+    "CML663": {},
+    "CML664": {},
+    "CML665": {},
+    "CML670": {
+        "COURSE": "CML526"
+    },
+    "CML671": {},
+    "CML672": {},
+    "CML673": {},
+    "CML674": {},
+    "CML675": {},
+    "CML681": {},
+    "CML682": {},
+    "CML683": {},
+    "CML684": {},
+    "CML691": {},
+    "CML692": {},
+    "CML693": {},
+    "CML696": {},
+    "CML721": {},
+    "CML723": {},
+    "CML724": {},
+    "CML726": {},
+    "CML729": {},
+    "CML731": {},
+    "CML733": {},
+    "CML734": {},
+    "CML735": {},
+    "CML737": {},
+    "CML738": {},
+    "CML739": {},
+    "CML740": {},
+    "CML741": {},
+    "CML742": {},
+    "CML743": {},
+    "CML801": {},
+    "CMP100": {},
+    "CMP511": {},
+    "CMP512": {},
+    "CMP521": {},
+    "CMP522": {},
+    "CMP722": {},
+    "CMP728": {},
+    "COD300": {},
+    "COD310": {},
+    "COD492": {
+        "COURSE": "EC100"
+    },
+    "COD494": {
+        "AND": [
+            {
+                "COURSE": "COD492"
+            },
+            {
+                "COURSE": "EC100"
+            }
+        ]
+    },
+    "COD745": {
+        "COURSE": "EC75"
+    },
+    "COD891": {},
+    "COD892": {},
+    "COD893": {
+        "COURSE": "COD892"
+    },
+    "COD895": {},
+    "COL100": {},
+    "COL106": {
+        "COURSE": "COL100"
+    },
+    "COL202": {},
+    "COL215": {
+        "AND": [
+            {
+                "COURSE": "COL100"
+            },
+            {
+                "COURSE": "ELL101"
+            }
+        ]
+    },
+    "COL216": {
+        "COURSE": "ELL201"
+    },
+    "COL226": {
+        "COURSE": "COL106"
+    },
+    "COL331": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "COP290"
+            }
+        ]
+    },
+    "COL333": {
+        "COURSE": "COL106"
+    },
+    "COL334": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "COL216"
+            }
+        ]
+    },
+    "COL341": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "MTL106"
+            }
+        ]
+    },
+    "COL351": {
+        "COURSE": "COL106"
+    },
+    "COL352": {
+        "COURSE": "COL202"
+    },
+    "COL362": {
+        "COURSE": "COL106"
+    },
+    "COL380": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "COL351"
+            },
+            {
+                "COURSE": "COL331"
+            }
+        ]
+    },
+    "COL632": {
+        "COURSE": "COL106"
+    },
+    "COL633": {
+        "COURSE": "COL106"
+    },
+    "COL671": {
+        "COURSE": "COL106"
+    },
+    "COL672": {
+        "COURSE": "COL106"
+    },
+    "COL702": {
+        "COURSE": "COL106"
+    },
+    "COL703": {
+        "COURSE": "COL106"
+    },
+    "COL718": {
+        "COURSE": "COL216"
+    },
+    "COL719": {
+        "COURSE": "COL215"
+    },
+    "COL720": {
+        "AND": [
+            {
+                "COURSE": "COL331"
+            },
+            {
+                "COURSE": "COL216"
+            }
+        ]
+    },
+    "COL722": {
+        "COURSE": "COL106"
+    },
+    "COL724": {
+        "COURSE": "COL334"
+    },
+    "COL726": {
+        "COURSE": "COL106"
+    },
+    "COL727": {
+        "COURSE": "MTL106"
+    },
+    "COL728": {
+        "AND": [
+            {
+                "COURSE": "COL216"
+            },
+            {
+                "COURSE": "COL226"
+            }
+        ]
+    },
+    "COL729": {
+        "AND": [
+            {
+                "COURSE": "COL216"
+            },
+            {
+                "COURSE": "COL226"
+            }
+        ]
+    },
+    "COL730": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "COL331"
+            }
+        ]
+    },
+    "COL731": {
+        "COURSE": "COL729"
+    },
+    "COL732": {
+        "COURSE": "COL331"
+    },
+    "COL733": {
+        "COURSE": "COL331"
+    },
+    "COL740": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "COL226"
+            }
+        ]
+    },
+    "COL750": {
+        "AND": [
+            {
+                "COURSE": "COL226"
+            },
+            {
+                "COURSE": "COL352"
+            }
+        ]
+    },
+    "COL751": {
+        "COURSE": "COL351"
+    },
+    "COL752": {
+        "COURSE": "COL351"
+    },
+    "COL753": {
+        "COURSE": "COL352"
+    },
+    "COL754": {
+        "COURSE": "COL351"
+    },
+    "COL755": {
+        "COURSE": "COL351"
+    },
+    "COL756": {
+        "COURSE": "COL351"
+    },
+    "COL757": {
+        "COURSE": "COL351"
+    },
+    "COL758": {
+        "COURSE": "COL351"
+    },
+    "COL759": {
+        "AND": [
+            {
+                "COURSE": "COL351"
+            },
+            {
+                "COURSE": "MTL106"
+            }
+        ]
+    },
+    "COL760": {
+        "COURSE": "COL362"
+    },
+    "COL761": {
+        "COURSE": "COL106"
+    },
+    "COL762": {
+        "COURSE": "COL362"
+    },
+    "COL764": {},
+    "COL765": {
+        "COURSE": "COL106"
+    },
+    "COL768": {
+        "COURSE": "COL334"
+    },
+    "COL770": {
+        "COURSE": "COL106"
+    },
+    "COL772": {
+        "COURSE": "COL106"
+    },
+    "COL774": {
+        "COURSE": "MTL106"
+    },
+    "COL776": {
+        "COURSE": "MTL106"
+    },
+    "COL780": {
+        "COURSE": "EC80"
+    },
+    "COL781": {
+        "COURSE": "COL106"
+    },
+    "COL783": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "ELL205"
+            }
+        ]
+    },
+    "COL785": {
+        "COURSE": "COL106"
+    },
+    "COL786": {},
+    "COL788": {
+        "AND": [
+            {
+                "COURSE": "COL216"
+            },
+            {
+                "COURSE": "COL331"
+            }
+        ]
+    },
+    "COL812": {
+        "COURSE": "COL719"
+    },
+    "COL818": {
+        "AND": [
+            {
+                "COURSE": "COL216"
+            },
+            {
+                "COURSE": "COL351"
+            },
+            {
+                "COURSE": "COL331"
+            }
+        ]
+    },
+    "COL819": {
+        "AND": [
+            {
+                "COURSE": "COL331"
+            },
+            {
+                "COURSE": "COL334"
+            },
+            {
+                "COURSE": "COL380"
+            }
+        ]
+    },
+    "COL821": {
+        "COURSE": "COL719"
+    },
+    "COL829": {
+        "COURSE": "COL781"
+    },
+    "COL830": {
+        "COURSE": "COL226"
+    },
+    "COL831": {
+        "AND": [
+            {
+                "COURSE": "COL226"
+            },
+            {
+                "COURSE": "COL352"
+            }
+        ]
+    },
+    "COL832": {
+        "AND": [
+            {
+                "COURSE": "COL226"
+            },
+            {
+                "COURSE": "COL352"
+            }
+        ]
+    },
+    "COL851": {
+        "COURSE": "COL331"
+    },
+    "COL860": {},
+    "COL861": {},
+    "COL862": {},
+    "COL863": {
+        "COURSE": "COL351"
+    },
+    "COL866": {
+        "COURSE": "COL351"
+    },
+    "COL869": {},
+    "COL870": {
+        "COURSE": "COL341"
+    },
+    "COL872": {
+        "COURSE": "COL759"
+    },
+    "COL873": {
+        "COURSE": "COL772"
+    },
+    "COL886": {},
+    "COP290": {
+        "COURSE": "COL106"
+    },
+    "COP701": {},
+    "COP745": {
+        "COURSE": "COL215"
+    },
+    "COP820": {
+        "COURSE": "COL718"
+    },
+    "COS799": {},
+    "COV877": {},
+    "COV878": {},
+    "COV879": {
+        "COURSE": "MTL106"
+    },
+    "COV882": {},
+    "COV883": {
+        "COURSE": "COL351"
+    },
+    "COV885": {},
+    "COV886": {
+        "COURSE": "COL351"
+    },
+    "COV889": {},
+    "CRD802": {},
+    "CRD811": {},
+    "CRD812": {},
+    "CRD814": {},
+    "CRL601": {},
+    "CRL611": {},
+    "CRL621": {},
+    "CRL702": {},
+    "CRL704": {},
+    "CRL706": {},
+    "CRL707": {},
+    "CRL708": {},
+    "CRL709": {},
+    "CRL711": {},
+    "CRL712": {},
+    "CRL715": {},
+    "CRL722": {},
+    "CRL724": {},
+    "CRL725": {},
+    "CRL726": {},
+    "CRL727": {},
+    "CRL729": {},
+    "CRL731": {},
+    "CRL732": {},
+    "CRL733": {},
+    "CRL734": {},
+    "CRP718": {},
+    "CRP723": {},
+    "CRS735": {},
+    "CRV741": {},
+    "CRV742": {},
+    "CRV743": {},
+    "CTD802": {},
+    "CTD895": {},
+    "CTL703": {},
+    "CTL704": {},
+    "CTL705": {},
+    "CTL707": {},
+    "CTL709": {},
+    "CTL711": {},
+    "CTL713": {},
+    "CTL715": {},
+    "CTL717": {},
+    "CTL719": {},
+    "CTL725": {},
+    "CTL727": {},
+    "CTL729": {},
+    "CTL731": {},
+    "CTL735": {},
+    "CTP702": {},
+    "CTP704": {},
+    "CVC771": {},
+    "CVC772": {},
+    "CVD411": {},
+    "CVD412": {},
+    "CVD700": {},
+    "CVD710": {},
+    "CVD720": {},
+    "CVD721": {},
+    "CVD726": {},
+    "CVD756": {},
+    "CVD771": {},
+    "CVD772": {},
+    "CVD773": {},
+    "CVD776": {},
+    "CVD777": {},
+    "CVD778": {},
+    "CVD800": {},
+    "CVD801": {},
+    "CVD810": {},
+    "CVD811": {},
+    "CVD831": {},
+    "CVD832": {},
+    "CVD853": {
+        "AND": [
+            {
+                "COURSE": "CVL740"
+            },
+            {
+                "COURSE": "CVL741"
+            },
+            {
+                "COURSE": "CVL742"
+            }
+        ]
+    },
+    "CVD854": {
+        "AND": [
+            {
+                "COURSE": "CVL740"
+            },
+            {
+                "COURSE": "CVL741"
+            },
+            {
+                "COURSE": "CVL742"
+            }
+        ]
+    },
+    "CVD895": {},
+    "CVL100": {},
+    "CVL111": {},
+    "CVL121": {},
+    "CVL141": {},
+    "CVL212": {
+        "COURSE": "CVL100"
+    },
+    "CVL222": {},
+    "CVL242": {
+        "COURSE": "APL108"
+    },
+    "CVL243": {
+        "COURSE": "CVL141"
+    },
+    "CVL244": {
+        "COURSE": "EC35"
+    },
+    "CVL245": {
+        "COURSE": "EC35"
+    },
+    "CVL261": {
+        "COURSE": "CVL111"
+    },
+    "CVL281": {
+        "COURSE": "APL107"
+    },
+    "CVL282": {
+        "COURSE": "APL107"
+    },
+    "CVL284": {
+        "COURSE": "COL100"
+    },
+    "CVL311": {
+        "COURSE": "CVL212"
+    },
+    "CVL312": {
+        "COURSE": "CVL212"
+    },
+    "CVL313": {
+        "COURSE": "CVL212"
+    },
+    "CVL321": {
+        "COURSE": "CVL222"
+    },
+    "CVL341": {
+        "COURSE": "CVL242"
+    },
+    "CVL342": {
+        "COURSE": "CVL242"
+    },
+    "CVL344": {
+        "COURSE": "CVL245"
+    },
+    "CVL361": {
+        "COURSE": "CVL261"
+    },
+    "CVL383": {
+        "COURSE": "CVL282"
+    },
+    "CVL385": {
+        "COURSE": "CVL282"
+    },
+    "CVL386": {
+        "COURSE": "EC75"
+    },
+    "CVL421": {
+        "COURSE": "CVL321"
+    },
+    "CVL422": {
+        "COURSE": "CVL321"
+    },
+    "CVL423": {
+        "COURSE": "CVL321"
+    },
+    "CVL424": {
+        "COURSE": "CVL321"
+    },
+    "CVL431": {
+        "COURSE": "CVL321"
+    },
+    "CVL432": {
+        "COURSE": "CVL321"
+    },
+    "CVL433": {
+        "COURSE": "CVL321"
+    },
+    "CVL435": {
+        "COURSE": "CVL321"
+    },
+    "CVL441": {
+        "AND": [
+            {
+                "COURSE": "CVL241"
+            },
+            {
+                "COURSE": "CVL243"
+            },
+            {
+                "COURSE": "CVL342"
+            }
+        ]
+    },
+    "CVL442": {
+        "COURSE": "CVL341"
+    },
+    "CVL443": {
+        "AND": [
+            {
+                "COURSE": "CVL241"
+            },
+            {
+                "COURSE": "CVL243"
+            },
+            {
+                "COURSE": "CVL341"
+            }
+        ]
+    },
+    "CVL462": {
+        "COURSE": "CVL261"
+    },
+    "CVL481": {
+        "AND": [
+            {
+                "COURSE": "CVL282"
+            },
+            {
+                "COURSE": "EC100"
+            }
+        ]
+    },
+    "CVL482": {
+        "AND": [
+            {
+                "COURSE": "CVL281"
+            },
+            {
+                "COURSE": "EC100"
+            }
+        ]
+    },
+    "CVL483": {
+        "AND": [
+            {
+                "COURSE": "CVL282"
+            },
+            {
+                "COURSE": "EC100"
+            }
+        ]
+    },
+    "CVL485": {
+        "AND": [
+            {
+                "COURSE": "CVL281"
+            },
+            {
+                "COURSE": "EC100"
+            }
+        ]
+    },
+    "CVL486": {
+        "COURSE": "EC100"
+    },
+    "CVL700": {},
+    "CVL701": {},
+    "CVL702": {},
+    "CVL703": {},
+    "CVL704": {},
+    "CVL705": {},
+    "CVL706": {},
+    "CVL707": {},
+    "CVL708": {},
+    "CVL709": {},
+    "CVL710": {},
+    "CVL711": {},
+    "CVL712": {},
+    "CVL713": {},
+    "CVL714": {},
+    "CVL715": {},
+    "CVL716": {},
+    "CVL720": {},
+    "CVL721": {},
+    "CVL722": {},
+    "CVL723": {},
+    "CVL724": {},
+    "CVL725": {},
+    "CVL727": {},
+    "CVL728": {},
+    "CVL729": {},
+    "CVL730": {},
+    "CVL731": {},
+    "CVL732": {},
+    "CVL733": {},
+    "CVL734": {},
+    "CVL735": {},
+    "CVL736": {},
+    "CVL737": {},
+    "CVL738": {},
+    "CVL756": {},
+    "CVL757": {},
+    "CVL759": {},
+    "CVL760": {},
+    "CVL761": {},
+    "CVL762": {},
+    "CVL763": {},
+    "CVL764": {},
+    "CVL765": {},
+    "CVL766": {},
+    "CVL767": {},
+    "CVL768": {},
+    "CVL769": {},
+    "CVL770": {},
+    "CVL771": {},
+    "CVL772": {},
+    "CVL773": {},
+    "CVL774": {},
+    "CVL775": {},
+    "CVL776": {},
+    "CVL777": {},
+    "CVL778": {},
+    "CVL779": {},
+    "CVL800": {},
+    "CVL801": {},
+    "CVL810": {},
+    "CVL811": {
+        "COURSE": "CVL704"
+    },
+    "CVL818": {},
+    "CVL819": {},
+    "CVL820": {},
+    "CVL821": {},
+    "CVL822": {},
+    "CVL823": {},
+    "CVL824": {},
+    "CVL825": {},
+    "CVL826": {},
+    "CVL827": {},
+    "CVL828": {},
+    "CVL830": {},
+    "CVL831": {},
+    "CVL832": {},
+    "CVL833": {},
+    "CVL834": {},
+    "CVL835": {},
+    "CVL836": {},
+    "CVL837": {},
+    "CVL838": {},
+    "CVL839": {},
+    "CVL849": {
+        "COURSE": "CVL742"
+    },
+    "CVL856": {},
+    "CVL857": {},
+    "CVL858": {},
+    "CVL859": {},
+    "CVL860": {
+        "COURSE": "CVL757"
+    },
+    "CVL861": {},
+    "CVL862": {},
+    "CVL863": {},
+    "CVL864": {},
+    "CVL865": {
+        "COURSE": "CVL759"
+    },
+    "CVL866": {
+        "COURSE": "CVL759"
+    },
+    "CVL871": {},
+    "CVL872": {},
+    "CVL873": {},
+    "CVL874": {},
+    "CVL875": {},
+    "CVL876": {},
+    "CVP243": {},
+    "CVP342": {},
+    "CVP434": {
+        "COURSE": "CVL321"
+    },
+    "CVP484": {
+        "AND": [
+            {
+                "COURSE": "CVL281"
+            },
+            {
+                "COURSE": "EC100"
+            }
+        ]
+    },
+    "CVP700": {},
+    "CVP710": {},
+    "CVP730": {},
+    "CVP731": {},
+    "CVP756": {},
+    "CVP771": {},
+    "CVP772": {},
+    "CVP800": {},
+    "CVP820": {},
+    "CVP821": {},
+    "CVS720": {},
+    "CVS730": {},
+    "CVS756": {},
+    "CVS771": {},
+    "CVS776": {},
+    "CVS800": {},
+    "CVS810": {},
+    "CVS830": {},
+    "CVS852": {
+        "AND": [
+            {
+                "COURSE": "CVL740"
+            },
+            {
+                "COURSE": "CVL741"
+            },
+            {
+                "COURSE": "CVL742"
+            }
+        ]
+    },
+    "CVV832": {},
+    "DDD120": {},
+    "DDD320": {
+        "AND": [
+            {
+                "COURSE": "DDL111"
+            },
+            {
+                "COURSE": "DDL116"
+            },
+            {
+                "COURSE": "DDL125"
+            },
+            {
+                "COURSE": "DDL121"
+            },
+            {
+                "COURSE": "DDL211"
+            },
+            {
+                "COURSE": "DDL213"
+            }
+        ]
+    },
+    "DDD410": {},
+    "DDD510": {},
+    "DDD620": {},
+    "DDD792": {},
+    "DDD799": {},
+    "DDD830": {},
+    "DDD891": {},
+    "DDD892": {},
+    "DDL110": {},
+    "DDL111": {},
+    "DDL112": {},
+    "DDL115": {},
+    "DDL116": {},
+    "DDL121": {},
+    "DDL122": {},
+    "DDL123": {},
+    "DDL124": {},
+    "DDL125": {},
+    "DDL126": {},
+    "DDL211": {},
+    "DDL212": {},
+    "DDL213": {},
+    "DDL214": {},
+    "DDL217": {},
+    "DDL222": {},
+    "DDL223": {
+        "COURSE": "DDL123"
+    },
+    "DDL224": {},
+    "DDL225": {},
+    "DDL226": {},
+    "DDL228": {
+        "AND": [
+            {
+                "COURSE": "DDL111"
+            },
+            {
+                "COURSE": "DDL116"
+            },
+            {
+                "COURSE": "DDL125"
+            }
+        ]
+    },
+    "DDL311": {},
+    "DDL312": {},
+    "DDL313": {},
+    "DDL314": {},
+    "DDL315": {},
+    "DDL321": {
+        "AND": [
+            {
+                "COURSE": "DDL211"
+            },
+            {
+                "COURSE": "DDL213"
+            }
+        ]
+    },
+    "DDL411": {},
+    "DDL710": {},
+    "DDL715": {},
+    "DDL716": {},
+    "DDL732": {},
+    "DDL742": {},
+    "DDL751": {},
+    "DDL768": {},
+    "DDL782": {},
+    "DDL810": {},
+    "DDL820": {},
+    "DDL841": {},
+    "DDP113": {},
+    "DDP114": {},
+    "DDP216": {},
+    "DDP711": {},
+    "DDP712": {},
+    "DDP721": {},
+    "DDP722": {},
+    "DDP731": {},
+    "DDP741": {},
+    "DDR227": {},
+    "DDR324": {},
+    "DDR422": {},
+    "DDR761": {},
+    "DDR762": {},
+    "DDR772": {},
+    "DDR801": {},
+    "DDR812": {},
+    "DDR822": {},
+    "DDR832": {},
+    "DDR852": {},
+    "DDR862": {},
+    "DDV820": {},
+    "DSC812": {},
+    "DSD801": {},
+    "DSD802": {},
+    "DSL601": {},
+    "DSL603": {},
+    "DSL711": {},
+    "DSL712": {},
+    "DSL714": {},
+    "DSL722": {},
+    "DSL724": {},
+    "DSL731": {},
+    "DSL733": {},
+    "DSL734": {},
+    "DSL737": {},
+    "DSL740": {},
+    "DSL742": {},
+    "DSL753": {},
+    "DSL811": {},
+    "DSL814": {},
+    "DSL815": {},
+    "DSP703": {},
+    "DSP704": {},
+    "DSP705": {},
+    "DSS720": {},
+    "EEL806": {},
+    "ELD411": {},
+    "ELD431": {},
+    "ELD450": {},
+    "ELD451": {},
+    "ELD452": {},
+    "ELD453": {},
+    "ELD454": {},
+    "ELD455": {},
+    "ELD456": {},
+    "ELD457": {},
+    "ELD458": {},
+    "ELD459": {
+        "AND": [
+            {
+                "COURSE": "ELD411"
+            },
+            {
+                "COURSE": "ELD431"
+            }
+        ]
+    },
+    "ELD780": {},
+    "ELD800": {},
+    "ELD801": {},
+    "ELD802": {},
+    "ELD810": {},
+    "ELD811": {},
+    "ELD812": {},
+    "ELD830": {},
+    "ELD831": {},
+    "ELD832": {},
+    "ELD850": {},
+    "ELD851": {},
+    "ELD852": {},
+    "ELD870": {},
+    "ELD871": {},
+    "ELD872": {},
+    "ELD880": {},
+    "ELD881": {},
+    "ELD895": {},
+    "ELL101": {},
+    "ELL201": {
+        "COURSE": "ELL101"
+    },
+    "ELL202": {
+        "COURSE": "ELL101"
+    },
+    "ELL203": {
+        "COURSE": "ELL101"
+    },
+    "ELL205": {},
+    "ELL211": {
+        "AND": [
+            {
+                "COURSE": "ELL101"
+            },
+            {
+                "COURSE": "PYL101"
+            }
+        ]
+    },
+    "ELL212": {
+        "COURSE": "PYL101"
+    },
+    "ELL225": {
+        "COURSE": "ELL205"
+    },
+    "ELL231": {
+        "COURSE": "ELL101"
+    },
+    "ELL301": {
+        "COURSE": "ELL101"
+    },
+    "ELL303": {
+        "AND": [
+            {
+                "COURSE": "ELL101"
+            },
+            {
+                "COURSE": "ELL203"
+            }
+        ]
+    },
+    "ELL305": {
+        "COURSE": "ELL201"
+    },
+    "ELL311": {
+        "COURSE": "ELL205"
+    },
+    "ELL312": {
+        "COURSE": "ELL211"
+    },
+    "ELL313": {
+        "COURSE": "ELL212"
+    },
+    "ELL315": {
+        "AND": [
+            {
+                "COURSE": "ELL204"
+            },
+            {
+                "COURSE": "ELL202"
+            }
+        ]
+    },
+    "ELL316": {
+        "COURSE": "ELL211"
+    },
+    "ELL318": {
+        "COURSE": "ELL305"
+    },
+    "ELL319": {
+        "COURSE": "ELL205"
+    },
+    "ELL332": {
+        "COURSE": "ELL203"
+    },
+    "ELL333": {
+        "COURSE": "ELL225"
+    },
+    "ELL334": {
+        "AND": [
+            {
+                "COURSE": "ELL203"
+            },
+            {
+                "COURSE": "ELL332"
+            }
+        ]
+    },
+    "ELL335": {
+        "COURSE": "ELL103"
+    },
+    "ELL363": {
+        "COURSE": "ELL303"
+    },
+    "ELL365": {},
+    "ELL400": {
+        "COURSE": "ELL303"
+    },
+    "ELL401": {
+        "COURSE": "ELL203"
+    },
+    "ELL402": {
+        "COURSE": "MEL250"
+    },
+    "ELL405": {
+        "COURSE": "ELL305"
+    },
+    "ELL406": {
+        "COURSE": "ELL225"
+    },
+    "ELL408": {
+        "COURSE": "ELL211"
+    },
+    "ELL409": {
+        "AND": [
+            {
+                "COURSE": "MTL106"
+            },
+            {
+                "COURSE": "COL106"
+            }
+        ]
+    },
+    "ELL410": {},
+    "ELL411": {
+        "COURSE": "ELL311"
+    },
+    "ELL417": {
+        "COURSE": "ELL203"
+    },
+    "ELL431": {
+        "COURSE": "ELL303"
+    },
+    "ELL433": {
+        "COURSE": "ELP302"
+    },
+    "ELL436": {
+        "COURSE": "ELL225"
+    },
+    "ELL437": {
+        "COURSE": "ELL231"
+    },
+    "ELL450": {},
+    "ELL452": {},
+    "ELL453": {},
+    "ELL454": {},
+    "ELL457": {},
+    "ELL458": {},
+    "ELL700": {
+        "COURSE": "ELL225"
+    },
+    "ELL701": {},
+    "ELL702": {
+        "COURSE": "ELL225"
+    },
+    "ELL704": {
+        "COURSE": "ELL225"
+    },
+    "ELL706": {},
+    "ELL707": {
+        "COURSE": "ELL225"
+    },
+    "ELL709": {},
+    "ELL710": {},
+    "ELL711": {
+        "AND": [
+            {
+                "COURSE": "ELL205"
+            },
+            {
+                "COURSE": "ELL311"
+            }
+        ]
+    },
+    "ELL712": {},
+    "ELL713": {
+        "COURSE": "ELL212"
+    },
+    "ELL714": {
+        "COURSE": "ELL205"
+    },
+    "ELL715": {},
+    "ELL716": {},
+    "ELL717": {},
+    "ELL718": {
+        "COURSE": "ELL711"
+    },
+    "ELL719": {
+        "COURSE": "ELL711"
+    },
+    "ELL720": {
+        "COURSE": "ELL205"
+    },
+    "ELL722": {},
+    "ELL723": {},
+    "ELL724": {},
+    "ELL725": {
+        "COURSE": "ELL712"
+    },
+    "ELL726": {},
+    "ELL727": {},
+    "ELL728": {},
+    "ELL729": {},
+    "ELL730": {},
+    "ELL731": {
+        "COURSE": "ELL782"
+    },
+    "ELL732": {},
+    "ELL733": {
+        "COURSE": "ELL308"
+    },
+    "ELL734": {},
+    "ELL735": {
+        "COURSE": "ELL304"
+    },
+    "ELL736": {
+        "AND": [
+            {
+                "COURSE": "ELL304"
+            },
+            {
+                "COURSE": "ELL782"
+            }
+        ]
+    },
+    "ELL738": {
+        "COURSE": "PYL101"
+    },
+    "ELL741": {},
+    "ELL742": {},
+    "ELL744": {},
+    "ELL746": {},
+    "ELL748": {
+        "COURSE": "ELL201"
+    },
+    "ELL749": {
+        "COURSE": "ELL734"
+    },
+    "ELL750": {
+        "COURSE": "ELL203"
+    },
+    "ELL751": {},
+    "ELL752": {},
+    "ELL753": {},
+    "ELL754": {},
+    "ELL755": {},
+    "ELL756": {
+        "COURSE": "ELL103"
+    },
+    "ELL757": {},
+    "ELL758": {},
+    "ELL759": {},
+    "ELL760": {},
+    "ELL761": {},
+    "ELL762": {
+        "COURSE": "ELL332"
+    },
+    "ELL763": {
+        "COURSE": "ELL332"
+    },
+    "ELL764": {},
+    "ELL765": {},
+    "ELL766": {
+        "AND": [
+            {
+                "COURSE": "ELL203"
+            },
+            {
+                "COURSE": "ELL332"
+            },
+            {
+                "COURSE": "ELL365"
+            }
+        ]
+    },
+    "ELL767": {},
+    "ELL768": {},
+    "ELL769": {},
+    "ELL770": {
+        "COURSE": "ELL303"
+    },
+    "ELL771": {},
+    "ELL772": {
+        "COURSE": "ELL303"
+    },
+    "ELL773": {},
+    "ELL774": {},
+    "ELL775": {
+        "COURSE": "ELL303"
+    },
+    "ELL776": {},
+    "ELL777": {},
+    "ELL778": {},
+    "ELL779": {},
+    "ELL780": {},
+    "ELL781": {},
+    "ELL782": {},
+    "ELL783": {},
+    "ELL784": {
+        "COURSE": "MTL106"
+    },
+    "ELL786": {},
+    "ELL787": {},
+    "ELL788": {},
+    "ELL789": {},
+    "ELL790": {},
+    "ELL791": {},
+    "ELL792": {},
+    "ELL793": {
+        "AND": [
+            {
+                "COURSE": "ELL715"
+            },
+            {
+                "COURSE": "ELL784"
+            }
+        ]
+    },
+    "ELL794": {},
+    "ELL795": {},
+    "ELL796": {},
+    "ELL797": {},
+    "ELL798": {},
+    "ELL799": {
+        "AND": [
+            {
+                "COURSE": "COL106"
+            },
+            {
+                "COURSE": "MTL106"
+            }
+        ]
+    },
+    "ELL800": {},
+    "ELL801": {},
+    "ELL802": {},
+    "ELL803": {},
+    "ELL804": {},
+    "ELL805": {},
+    "ELL806": {},
+    "ELL807": {},
+    "ELL808": {},
+    "ELL810": {},
+    "ELL812": {},
+    "ELL813": {},
+    "ELL814": {},
+    "ELL815": {},
+    "ELL816": {},
+    "ELL817": {},
+    "ELL818": {},
+    "ELL819": {},
+    "ELL820": {},
+    "ELL821": {},
+    "ELL822": {},
+    "ELL823": {},
+    "ELL824": {},
+    "ELL830": {},
+    "ELL831": {},
+    "ELL832": {},
+    "ELL833": {},
+    "ELL834": {},
+    "ELL850": {},
+    "ELL851": {},
+    "ELL852": {},
+    "ELL853": {},
+    "ELL854": {},
+    "ELL855": {},
+    "ELL856": {},
+    "ELL857": {},
+    "ELL858": {},
+    "ELL859": {},
+    "ELL870": {},
+    "ELL871": {},
+    "ELL872": {},
+    "ELL873": {},
+    "ELL874": {},
+    "ELL880": {},
+    "ELL881": {},
+    "ELL882": {},
+    "ELL883": {},
+    "ELL884": {},
+    "ELL885": {},
+    "ELL886": {},
+    "ELL887": {},
+    "ELL888": {},
+    "ELL889": {},
+    "ELL890": {},
+    "ELL891": {},
+    "ELL892": {},
+    "ELL893": {},
+    "ELL894": {},
+    "ELL895": {},
+    "ELL896": {},
+    "ELL897": {},
+    "ELL898": {},
+    "ELL899": {},
+    "ELP101": {},
+    "ELP203": {
+        "COURSE": "ELL101"
+    },
+    "ELP212": {
+        "COURSE": "ELL212"
+    },
+    "ELP225": {
+        "COURSE": "ELL225"
+    },
+    "ELP302": {
+        "COURSE": "ELL302"
+    },
+    "ELP303": {
+        "COURSE": "ELL303"
+    },
+    "ELP305": {},
+    "ELP311": {
+        "COURSE": "ELL311"
+    },
+    "ELP332": {
+        "COURSE": "ELL332"
+    },
+    "ELP411": {
+        "COURSE": "ELP311"
+    },
+    "ELP718": {},
+    "ELP719": {},
+    "ELP720": {},
+    "ELP721": {},
+    "ELP725": {},
+    "ELP736": {},
+    "ELP780": {},
+    "ELP781": {},
+    "ELP782": {},
+    "ELP800": {},
+    "ELP801": {},
+    "ELP821": {},
+    "ELP822": {},
+    "ELP830": {},
+    "ELP831": {},
+    "ELP832": {},
+    "ELP833": {},
+    "ELP850": {},
+    "ELP851": {},
+    "ELP852": {},
+    "ELP853": {},
+    "ELP854": {},
+    "ELP855": {},
+    "ELP870": {},
+    "ELP871": {},
+    "ELS310": {},
+    "ELS330": {},
+    "ELS880": {},
+    "ELT850": {},
+    "ELV710": {},
+    "ELV720": {},
+    "ELV734": {},
+    "ELV750": {},
+    "ELV752": {},
+    "ELV753": {},
+    "ELV780": {},
+    "ELV821": {},
+    "ELV823": {},
+    "ELV830": {},
+    "ELV831": {},
+    "ELV832": {},
+    "ELV833": {},
+    "ELV834": {},
+    "ESD798": {},
+    "ESD799": {},
+    "ESD801": {},
+    "ESD802": {},
+    "ESD851": {},
+    "ESD852": {},
+    "ESL100": {},
+    "ESL200": {},
+    "ESL220": {},
+    "ESL260": {
+        "COURSE": "ELL101"
+    },
+    "ESL261": {
+        "COURSE": "ELL100"
+    },
+    "ESL262": {
+        "AND": [
+            {
+                "COURSE": "ELL100"
+            },
+            {
+                "COURSE": "ESL260"
+            }
+        ]
+    },
+    "ESL263": {
+        "AND": [
+            {
+                "COURSE": "ELL100"
+            },
+            {
+                "COURSE": "ESL260"
+            }
+        ]
+    },
+    "ESL280": {},
+    "ESL320": {},
+    "ESL331": {
+        "COURSE": "APL106"
+    },
+    "ESL341": {},
+    "ESL342": {},
+    "ESL351": {},
+    "ESL352": {},
+    "ESL360": {},
+    "ESL361": {
+        "COURSE": "ELL100"
+    },
+    "ESL370": {
+        "AND": [
+            {
+                "COURSE": "ELL100"
+            },
+            {
+                "COURSE": "ESL260"
+            }
+        ]
+    },
+    "ESL372": {},
+    "ESL374": {},
+    "ESL375": {},
+    "ESL376": {
+        "COURSE": "ELL100"
+    },
+    "ESL377": {},
+    "ESL380": {},
+    "ESL381": {},
+    "ESL382": {},
+    "ESL390": {},
+    "ESL400": {},
+    "ESL410": {},
+    "ESL420": {},
+    "ESL450": {},
+    "ESL480": {},
+    "ESL481": {},
+    "ESL490": {},
+    "ESL710": {},
+    "ESL711": {},
+    "ESL714": {},
+    "ESL715": {},
+    "ESL718": {},
+    "ESL720": {},
+    "ESL722": {},
+    "ESL724": {},
+    "ESL727": {},
+    "ESL729": {},
+    "ESL730": {},
+    "ESL732": {},
+    "ESL733": {},
+    "ESL734": {},
+    "ESL735": {},
+    "ESL737": {},
+    "ESL738": {},
+    "ESL739": {},
+    "ESL740": {},
+    "ESL743": {},
+    "ESL744": {},
+    "ESL745": {},
+    "ESL746": {},
+    "ESL749": {},
+    "ESL750": {},
+    "ESL751": {},
+    "ESL752": {},
+    "ESL753": {},
+    "ESL754": {},
+    "ESL755": {},
+    "ESL756": {},
+    "ESL757": {},
+    "ESL758": {},
+    "ESL760": {},
+    "ESL764": {},
+    "ESL766": {},
+    "ESL768": {},
+    "ESL770": {},
+    "ESL771": {},
+    "ESL772": {},
+    "ESL773": {},
+    "ESL774": {},
+    "ESL778": {},
+    "ESL779": {},
+    "ESL780": {},
+    "ESL782": {},
+    "ESL790": {},
+    "ESL791": {},
+    "ESL792": {},
+    "ESL796": {},
+    "ESL797": {},
+    "ESL798": {},
+    "ESL799": {},
+    "ESL804": {},
+    "ESL810": {},
+    "ESL840": {},
+    "ESL842": {},
+    "ESL845": {},
+    "ESL850": {},
+    "ESL852": {},
+    "ESL855": {},
+    "ESL860": {},
+    "ESL870": {},
+    "ESL871": {},
+    "ESL880": {},
+    "ESL885": {},
+    "ESN702": {},
+    "ESP260": {},
+    "ESP300": {
+        "AND": [
+            {
+                "COURSE": "ESP260"
+            },
+            {
+                "COURSE": "ESL280"
+            }
+        ]
+    },
+    "ESP705": {},
+    "ESP706": {},
+    "ESP728": {},
+    "ESS801": {},
+    "ESS851": {},
+    "ESV891": {},
+    "HSL262": {},
+    "HSL371": {},
+    "HSL521": {},
+    "HSL522": {},
+    "HSL541": {},
+    "HSL561": {},
+    "HSL621": {
+        "COURSE": "HSS521"
+    },
+    "HSL622": {},
+    "HSL651": {},
+    "HSL661": {},
+    "HSL721": {},
+    "HSL723": {
+        "COURSE": "HSL721"
+    },
+    "HSL724": {
+        "COURSE": "HSL721"
+    },
+    "HSL725": {
+        "COURSE": "HSL721"
+    },
+    "HSL726": {
+        "COURSE": "HSL521"
+    },
+    "HSL747": {
+        "AND": [
+            {
+                "COURSE": "HSL521"
+            },
+            {
+                "COURSE": "HSL541"
+            }
+        ]
+    },
+    "HSL767": {},
+    "HSL781": {},
+    "HSL784": {
+        "COURSE": "COL100"
+    },
+    "HSL789": {},
+    "HSL821": {
+        "COURSE": "HSL521"
+    },
+    "HSL822": {
+        "COURSE": "HSL722"
+    },
+    "HSP700": {},
+    "HSS521": {},
+    "HSV771": {},
+    "HUD700": {},
+    "HUL101": {},
+    "HUL211": {
+        "COURSE": "NLN101"
+    },
+    "HUL212": {
+        "COURSE": "NLN101"
+    },
+    "HUL213": {
+        "COURSE": "NLN101"
+    },
+    "HUL217": {},
+    "HUL232": {
+        "COURSE": "NLN101"
+    },
+    "HUL235": {
+        "COURSE": "NLN101"
+    },
+    "HUL236": {
+        "COURSE": "NLN101"
+    },
+    "HUL237": {
+        "COURSE": "NLN101"
+    },
+    "HUL239": {
+        "COURSE": "NLN101"
+    },
+    "HUL240": {
+        "COURSE": "NLN101"
+    },
+    "HUL242": {
+        "COURSE": "NLN101"
+    },
+    "HUL243": {
+        "COURSE": "NLN101"
+    },
+    "HUL251": {},
+    "HUL253": {
+        "COURSE": "NLN101"
+    },
+    "HUL256": {
+        "COURSE": "NLN101"
+    },
+    "HUL258": {
+        "COURSE": "NLN101"
+    },
+    "HUL261": {
+        "COURSE": "NLN101"
+    },
+    "HUL265": {
+        "COURSE": "NLN101"
+    },
+    "HUL267": {
+        "COURSE": "NLN101"
+    },
+    "HUL271": {
+        "COURSE": "NLN101"
+    },
+    "HUL272": {
+        "COURSE": "NLN101"
+    },
+    "HUL274": {
+        "COURSE": "NLN101"
+    },
+    "HUL275": {
+        "COURSE": "NLN101"
+    },
+    "HUL276": {
+        "COURSE": "NLN101"
+    },
+    "HUL281": {
+        "COURSE": "NLN101"
+    },
+    "HUL282": {
+        "COURSE": "NLN101"
+    },
+    "HUL286": {
+        "COURSE": "NLN101"
+    },
+    "HUL289": {
+        "COURSE": "NLN101"
+    },
+    "HUL290": {
+        "COURSE": "NLN101"
+    },
+    "HUL704": {},
+    "HUL706": {},
+    "HUL707": {},
+    "HUL709": {},
+    "HUL710": {},
+    "HUL711": {},
+    "HUL731": {},
+    "HUL733": {},
+    "HUL734": {},
+    "HUL736": {},
+    "HUL743": {},
+    "HUL745": {},
+    "HUL748": {},
+    "HUL751": {},
+    "HUL752": {},
+    "HUL753": {},
+    "HUL754": {},
+    "HUL755": {},
+    "HUL756": {},
+    "HUL759": {},
+    "HUL760": {},
+    "HUL761": {},
+    "HUL762": {},
+    "HUL763": {},
+    "HUL764": {},
+    "HUL765": {},
+    "HUL771": {},
+    "HUL772": {},
+    "HUL773": {},
+    "HUL774": {},
+    "HUL776": {},
+    "HUL777": {},
+    "HUL778": {},
+    "HUL779": {},
+    "HUL783": {},
+    "HUL800": {},
+    "HUL801": {},
+    "HUL821": {},
+    "HUL823": {},
+    "HUL832": {},
+    "HUL833": {},
+    "HUL834": {},
+    "HUL835": {},
+    "HUL840": {},
+    "HUL843": {},
+    "HUL845": {},
+    "HUL846": {},
+    "HUL850": {},
+    "HUL851": {},
+    "HUL852": {},
+    "HUL853": {},
+    "HUL854": {},
+    "HUL856": {},
+    "HUL857": {},
+    "HUL860": {},
+    "HUL861": {},
+    "HUL862": {},
+    "HUL863": {},
+    "HUL870": {},
+    "HUL871": {},
+    "HUL872": {},
+    "HUL873": {},
+    "HUL874": {},
+    "HUL875": {},
+    "HUL876": {},
+    "HUL877": {},
+    "HUL878": {},
+    "HUL879": {},
+    "HUL880": {},
+    "HUL881": {},
+    "HUL882": {},
+    "HUL883": {},
+    "HUL884": {
+        "COURSE": "HUL275"
+    },
+    "HUL885": {},
+    "HUL886": {},
+    "HUL888": {},
+    "HUL889": {},
+    "HUL891": {},
+    "HUP102": {},
+    "HUV731": {},
+    "HUV734": {},
+    "HUV735": {},
+    "HUV773": {},
+    "HUV774": {},
+    "HUV781": {},
+    "HUV886": {},
+    "ITL702": {},
+    "ITL703": {},
+    "ITL705": {},
+    "ITL709": {},
+    "ITL710": {},
+    "ITL711": {},
+    "ITL714": {},
+    "ITL717": {},
+    "ITL730": {},
+    "ITL740": {},
+    "ITL752": {},
+    "ITL760": {},
+    "ITL810": {},
+    "JID800": {},
+    "JID801": {},
+    "JID802": {},
+    "JIS800": {},
+    "JOD801": {},
+    "JOD802": {},
+    "JOL793": {},
+    "JOL794": {},
+    "JOP791": {},
+    "JOP792": {},
+    "JOS795": {},
+    "JOV796": {},
+    "JSD799": {},
+    "JSD801": {},
+    "JSD802": {},
+    "JSS801": {},
+    "JTD792": {},
+    "JTD801": {},
+    "JVD799": {},
+    "JVD811": {},
+    "JVD812": {},
+    "JVS801": {},
+    "MCD383": {},
+    "MCD411": {
+        "COURSE": "EC100"
+    },
+    "MCD412": {
+        "COURSE": "EC100"
+    },
+    "MCD800": {},
+    "MCD810": {},
+    "MCD811": {},
+    "MCD812": {},
+    "MCD832": {},
+    "MCD861": {},
+    "MCD862": {},
+    "MCD881": {},
+    "MCD882": {},
+    "MCD895": {},
+    "MCL111": {
+        "COURSE": "APL100"
+    },
+    "MCL131": {
+        "COURSE": "MCP101"
+    },
+    "MCL132": {
+        "COURSE": "MCP101"
+    },
+    "MCL133": {
+        "COURSE": "MCP101"
+    },
+    "MCL134": {
+        "COURSE": "MCP101"
+    },
+    "MCL135": {
+        "COURSE": "MCP101"
+    },
+    "MCL136": {
+        "COURSE": "MCP101"
+    },
+    "MCL140": {},
+    "MCL141": {},
+    "MCL142": {},
+    "MCL201": {
+        "COURSE": "MCP100"
+    },
+    "MCL211": {
+        "AND": [
+            {
+                "COURSE": "APL104"
+            },
+            {
+                "COURSE": "MCL100"
+            },
+            {
+                "COURSE": "MCL201"
+            }
+        ]
+    },
+    "MCL212": {
+        "AND": [
+            {
+                "COURSE": "MTL100"
+            },
+            {
+                "COURSE": "MTL101"
+            }
+        ]
+    },
+    "MCL231": {
+        "COURSE": "MCL131"
+    },
+    "MCL241": {
+        "COURSE": "MCL140"
+    },
+    "MCL242": {
+        "AND": [
+            {
+                "COURSE": "MCL140"
+            },
+            {
+                "COURSE": "APL106"
+            }
+        ]
+    },
+    "MCL261": {
+        "COURSE": "MTL108"
+    },
+    "MCL262": {
+        "COURSE": "MTL108"
+    },
+    "MCL311": {
+        "AND": [
+            {
+                "COURSE": "APL104"
+            },
+            {
+                "COURSE": "MCL211"
+            }
+        ]
+    },
+    "MCL314": {
+        "COURSE": "APL100"
+    },
+    "MCL318": {
+        "COURSE": "APL100"
+    },
+    "MCL321": {},
+    "MCL322": {
+        "COURSE": "MCL211"
+    },
+    "MCL338": {
+        "COURSE": "ELL101"
+    },
+    "MCL341": {
+        "AND": [
+            {
+                "COURSE": "MCL140"
+            },
+            {
+                "COURSE": "MCL241"
+            }
+        ]
+    },
+    "MCL347": {
+        "AND": [
+            {
+                "COURSE": "MTL100"
+            },
+            {
+                "COURSE": "MTL101"
+            },
+            {
+                "COURSE": "MCL242"
+            }
+        ]
+    },
+    "MCL361": {
+        "AND": [
+            {
+                "COURSE": "MTL108"
+            },
+            {
+                "COURSE": "MCL261"
+            }
+        ]
+    },
+    "MCL363": {
+        "AND": [
+            {
+                "COURSE": "MCL261"
+            },
+            {
+                "COURSE": "MCL262"
+            }
+        ]
+    },
+    "MCL364": {},
+    "MCL366": {
+        "COURSE": "MCL261"
+    },
+    "MCL368": {
+        "COURSE": "MTL108"
+    },
+    "MCL421": {
+        "AND": [
+            {
+                "COURSE": "MCL211"
+            },
+            {
+                "COURSE": "MCL321"
+            }
+        ]
+    },
+    "MCL422": {
+        "AND": [
+            {
+                "COURSE": "APL104"
+            },
+            {
+                "COURSE": "MCL111"
+            },
+            {
+                "COURSE": "MCL321"
+            }
+        ]
+    },
+    "MCL701": {},
+    "MCL702": {},
+    "MCL703": {},
+    "MCL704": {},
+    "MCL705": {},
+    "MCL709": {},
+    "MCL710": {},
+    "MCL715": {
+        "COURSE": "MCL733"
+    },
+    "MCL721": {},
+    "MCL722": {},
+    "MCL723": {},
+    "MCL724": {},
+    "MCL725": {},
+    "MCL726": {},
+    "MCL728": {},
+    "MCL729": {},
+    "MCL730": {},
+    "MCL731": {},
+    "MCL733": {},
+    "MCL735": {},
+    "MCL736": {},
+    "MCL738": {},
+    "MCL740": {},
+    "MCL741": {},
+    "MCL742": {},
+    "MCL743": {},
+    "MCL745": {},
+    "MCL748": {},
+    "MCL750": {},
+    "MCL751": {},
+    "MCL753": {
+        "COURSE": "MCL361"
+    },
+    "MCL754": {},
+    "MCL755": {
+        "COURSE": "MTL108"
+    },
+    "MCL756": {
+        "COURSE": "MCL361"
+    },
+    "MCL757": {},
+    "MCL758": {},
+    "MCL759": {},
+    "MCL760": {
+        "COURSE": "MTL108"
+    },
+    "MCL761": {},
+    "MCL763": {},
+    "MCL765": {},
+    "MCL769": {},
+    "MCL770": {},
+    "MCL771": {},
+    "MCL772": {},
+    "MCL773": {},
+    "MCL775": {},
+    "MCL778": {},
+    "MCL780": {},
+    "MCL781": {},
+    "MCL782": {},
+    "MCL783": {},
+    "MCL784": {},
+    "MCL785": {},
+    "MCL786": {},
+    "MCL787": {},
+    "MCL788": {},
+    "MCL791": {},
+    "MCL792": {},
+    "MCL796": {},
+    "MCL798": {},
+    "MCL811": {},
+    "MCL812": {},
+    "MCL813": {},
+    "MCL814": {},
+    "MCL815": {},
+    "MCL816": {},
+    "MCL817": {},
+    "MCL818": {},
+    "MCL819": {},
+    "MCL820": {},
+    "MCL821": {},
+    "MCL822": {},
+    "MCL823": {},
+    "MCL824": {},
+    "MCL825": {},
+    "MCL834": {},
+    "MCL837": {},
+    "MCL839": {},
+    "MCL840": {},
+    "MCL845": {},
+    "MCL848": {},
+    "MCL849": {},
+    "MCL865": {},
+    "MCL866": {},
+    "MCP100": {},
+    "MCP101": {},
+    "MCP231": {
+        "COURSE": "MCL131"
+    },
+    "MCP232": {
+        "AND": [
+            {
+                "COURSE": "MCL132"
+            },
+            {
+                "COURSE": "MCL133"
+            },
+            {
+                "COURSE": "MCL134"
+            }
+        ]
+    },
+    "MCP261": {
+        "AND": [
+            {
+                "COURSE": "MCL261"
+            },
+            {
+                "COURSE": "MCL262"
+            }
+        ]
+    },
+    "MCP301": {
+        "AND": [
+            {
+                "COURSE": "APL104"
+            },
+            {
+                "COURSE": "APL106"
+            },
+            {
+                "COURSE": "MCL111"
+            },
+            {
+                "COURSE": "MCL140"
+            },
+            {
+                "COURSE": "MCL241"
+            }
+        ]
+    },
+    "MCP332": {
+        "AND": [
+            {
+                "COURSE": "MCL135"
+            },
+            {
+                "COURSE": "MCL136"
+            },
+            {
+                "COURSE": "MCP232"
+            }
+        ]
+    },
+    "MCP361": {
+        "AND": [
+            {
+                "COURSE": "MCP261"
+            },
+            {
+                "COURSE": "MCL361"
+            }
+        ]
+    },
+    "MCP401": {
+        "AND": [
+            {
+                "COURSE": "MCL211"
+            },
+            {
+                "COURSE": "MCL212"
+            },
+            {
+                "COURSE": "MCL242"
+            },
+            {
+                "COURSE": "MCP301"
+            }
+        ]
+    },
+    "MCP790": {},
+    "MCS830": {},
+    "MCV849": {},
+    "MDD801": {},
+    "MDD802": {},
+    "MDD803": {},
+    "MDL800": {
+        "COURSE": "MSL713"
+    },
+    "MDL801": {
+        "COURSE": "MSL713"
+    },
+    "MLD799": {},
+    "MLD801": {},
+    "MLD802": {},
+    "MLD811": {},
+    "MLD812": {},
+    "MLL100": {},
+    "MLL102": {},
+    "MLL103": {},
+    "MLL104": {},
+    "MLL181": {},
+    "MLL202": {
+        "COURSE": "MLL103"
+    },
+    "MLL203": {
+        "COURSE": "MLL104"
+    },
+    "MLL212": {
+        "COURSE": "MTL101"
+    },
+    "MLL213": {
+        "AND": [
+            {
+                "COURSE": "COL100"
+            },
+            {
+                "COURSE": "MTL107"
+            }
+        ]
+    },
+    "MLL242": {
+        "COURSE": "CML100"
+    },
+    "MLL251": {
+        "COURSE": "APL102"
+    },
+    "MLL253": {
+        "COURSE": "PYL100"
+    },
+    "MLL262": {
+        "AND": [
+            {
+                "COURSE": "CLL110"
+            },
+            {
+                "COURSE": "MLL103"
+            }
+        ]
+    },
+    "MLL264": {
+        "COURSE": "APL102"
+    },
+    "MLL341": {
+        "COURSE": "MLL242"
+    },
+    "MLL342": {
+        "COURSE": "MLL242"
+    },
+    "MLL343": {
+        "COURSE": "MLL242"
+    },
+    "MLL344": {
+        "COURSE": "MLL242"
+    },
+    "MLL345": {
+        "COURSE": "MLL242"
+    },
+    "MLL361": {
+        "COURSE": "MLL262"
+    },
+    "MLL363": {
+        "COURSE": "MLL262"
+    },
+    "MLL364": {
+        "COURSE": "MLL262"
+    },
+    "MLL365": {
+        "COURSE": "MLL262"
+    },
+    "MLL366": {
+        "COURSE": "MLL262"
+    },
+    "MLL371": {
+        "AND": [
+            {
+                "COURSE": "MLL103"
+            },
+            {
+                "COURSE": "MLL202"
+            }
+        ]
+    },
+    "MLL372": {
+        "AND": [
+            {
+                "COURSE": "MLL251"
+            },
+            {
+                "COURSE": "MLL253"
+            }
+        ]
+    },
+    "MLL452": {
+        "COURSE": "MLL371"
+    },
+    "MLL701": {},
+    "MLL702": {},
+    "MLL703": {},
+    "MLL712": {},
+    "MLL713": {},
+    "MLL714": {},
+    "MLL715": {},
+    "MLL716": {},
+    "MLL717": {},
+    "MLL718": {},
+    "MLL719": {},
+    "MLL720": {},
+    "MLL721": {},
+    "MLL722": {},
+    "MLL723": {},
+    "MLL724": {},
+    "MLL725": {},
+    "MLL727": {},
+    "MLL729": {
+        "COURSE": "EC75"
+    },
+    "MLL731": {},
+    "MLL732": {},
+    "MLL733": {
+        "COURSE": "EC75"
+    },
+    "MLL735": {
+        "COURSE": "EC75"
+    },
+    "MLL736": {},
+    "MLL737": {},
+    "MLL739": {},
+    "MLL740": {},
+    "MLL741": {
+        "COURSE": "EC75"
+    },
+    "MLL742": {},
+    "MLL746": {},
+    "MLN710": {},
+    "MLP352": {
+        "COURSE": "MLL251"
+    },
+    "MLP354": {
+        "COURSE": "MLL253"
+    },
+    "MLP362": {
+        "COURSE": "MLL262"
+    },
+    "MLP473": {
+        "COURSE": "MLL372"
+    },
+    "MLP704": {},
+    "MLP709": {},
+    "MLP728": {},
+    "MLS302": {},
+    "MLS800": {},
+    "MLV700": {},
+    "MLV705": {},
+    "MSC894": {},
+    "MSD308": {
+        "AND": [
+            {
+                "COURSE": "MSL305"
+            },
+            {
+                "COURSE": "MSL306"
+            },
+            {
+                "COURSE": "MSL307"
+            }
+        ]
+    },
+    "MSD309": {
+        "AND": [
+            {
+                "COURSE": "MSL305"
+            },
+            {
+                "COURSE": "MSL306"
+            },
+            {
+                "COURSE": "MSL307"
+            },
+            {
+                "COURSE": "MSD308"
+            }
+        ]
+    },
+    "MSL301": {},
+    "MSL302": {},
+    "MSL303": {},
+    "MSL304": {},
+    "MSL305": {},
+    "MSL306": {},
+    "MSL307": {
+        "AND": [
+            {
+                "COURSE": "MSL305"
+            },
+            {
+                "COURSE": "MSL306"
+            }
+        ]
+    },
+    "MSL310": {},
+    "MSL401": {},
+    "MSL402": {},
+    "MSL403": {},
+    "MSL404": {},
+    "MSL405": {},
+    "MSL406": {},
+    "MSL407": {},
+    "MSL408": {},
+    "MSL409": {},
+    "MSL700": {},
+    "MSL701": {},
+    "MSL702": {},
+    "MSL703": {},
+    "MSL704": {},
+    "MSL705": {},
+    "MSL706": {},
+    "MSL707": {},
+    "MSL708": {},
+    "MSL709": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL710": {},
+    "MSL711": {},
+    "MSL712": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL713": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL714": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL715": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL716": {},
+    "MSL717": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL718": {},
+    "MSL719": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL720": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL721": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL722": {},
+    "MSL723": {},
+    "MSL724": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL725": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL726": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL727": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL728": {},
+    "MSL729": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL730": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL731": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL733": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL734": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL735": {},
+    "MSL740": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL745": {},
+    "MSL760": {},
+    "MSL780": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL781": {},
+    "MSL782": {},
+    "MSL783": {},
+    "MSL784": {
+        "COURSE": "MSL720"
+    },
+    "MSL799": {},
+    "MSL801": {},
+    "MSL802": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL803": {},
+    "MSL804": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL805": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL806": {},
+    "MSL807": {},
+    "MSL808": {},
+    "MSL809": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL810": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL811": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL812": {},
+    "MSL813": {},
+    "MSL814": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL815": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL816": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL817": {},
+    "MSL818": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL819": {},
+    "MSL820": {},
+    "MSL821": {},
+    "MSL822": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL823": {},
+    "MSL824": {},
+    "MSL825": {},
+    "MSL826": {},
+    "MSL827": {},
+    "MSL828": {},
+    "MSL829": {},
+    "MSL830": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL831": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL832": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL833": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL834": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL835": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL836": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL839": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL840": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL841": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL842": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL843": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL844": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL845": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL846": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL847": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL848": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL849": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL850": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL851": {},
+    "MSL852": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL853": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL854": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL855": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL856": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL858": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL859": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL861": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL862": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL863": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL864": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL865": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL866": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL867": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL868": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL869": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL870": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL871": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL872": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL873": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL874": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL875": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL876": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL877": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL878": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL879": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL880": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL881": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL882": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL883": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL884": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL885": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL886": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL887": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL888": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL889": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL891": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL892": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL895": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL896": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL897": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL898": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSL899": {
+        "AND": [
+            {
+                "COURSE": "MSL301"
+            },
+            {
+                "COURSE": "MSL302"
+            }
+        ]
+    },
+    "MSP801": {},
+    "MST893": {},
+    "MST894": {},
+    "MSV801": {},
+    "MSV802": {},
+    "MSV803": {},
+    "MSV804": {},
+    "MSV805": {},
+    "MSV806": {},
+    "MSV815": {},
+    "MSV816": {},
+    "MSV817": {},
+    "MSV818": {},
+    "MSV819": {},
+    "MSV820": {},
+    "MSV821": {},
+    "MSV822": {},
+    "MSV824": {},
+    "MSV826": {},
+    "MSV827": {},
+    "MSV828": {},
+    "MSV832": {},
+    "MTD350": {
+        "COURSE": "EC80"
+    },
+    "MTD421": {
+        "COURSE": "EC100"
+    },
+    "MTD701": {},
+    "MTD702": {},
+    "MTL100": {},
+    "MTL101": {},
+    "MTL102": {},
+    "MTL103": {},
+    "MTL104": {
+        "COURSE": "MTL101"
+    },
+    "MTL105": {},
+    "MTL106": {},
+    "MTL107": {},
+    "MTL108": {},
+    "MTL122": {
+        "COURSE": "MTL100"
+    },
+    "MTL145": {},
+    "MTL146": {
+        "COURSE": "MTL180"
+    },
+    "MTL180": {},
+    "MTL260": {
+        "AND": [
+            {
+                "COURSE": "MTL100"
+            },
+            {
+                "COURSE": "MTL101"
+            }
+        ]
+    },
+    "MTL265": {
+        "COURSE": "MTL103"
+    },
+    "MTL270": {},
+    "MTL342": {
+        "COURSE": "MTL180"
+    },
+    "MTL390": {
+        "COURSE": "MTL106"
+    },
+    "MTL411": {
+        "AND": [
+            {
+                "COURSE": "MTL104"
+            },
+            {
+                "COURSE": "MTL122"
+            }
+        ]
+    },
+    "MTL415": {
+        "COURSE": "MTL342"
+    },
+    "MTL445": {
+        "COURSE": "MTL107"
+    },
+    "MTL458": {
+        "COURSE": "MTL342"
+    },
+    "MTL501": {},
+    "MTL502": {},
+    "MTL503": {},
+    "MTL504": {},
+    "MTL505": {},
+    "MTL506": {},
+    "MTL507": {},
+    "MTL508": {},
+    "MTL509": {},
+    "MTL510": {},
+    "MTL601": {},
+    "MTL602": {},
+    "MTL603": {},
+    "MTL625": {},
+    "MTL717": {},
+    "MTL720": {},
+    "MTL725": {},
+    "MTL728": {},
+    "MTL729": {},
+    "MTL730": {},
+    "MTL731": {},
+    "MTL735": {},
+    "MTL737": {},
+    "MTL741": {},
+    "MTL745": {},
+    "MTL746": {},
+    "MTL747": {},
+    "MTL750": {},
+    "MTL751": {},
+    "MTL754": {},
+    "MTL760": {
+        "COURSE": "MTL342"
+    },
+    "MTL761": {},
+    "MTL762": {},
+    "MTL763": {},
+    "MTL768": {
+        "COURSE": "COL106"
+    },
+    "MTL776": {
+        "COURSE": "COL106"
+    },
+    "MTL782": {
+        "COURSE": "MTL342"
+    },
+    "MTL783": {
+        "COURSE": "MTL342"
+    },
+    "MTL785": {},
+    "MTL793": {},
+    "MTL794": {},
+    "MTL795": {},
+    "MTL796": {},
+    "MTL797": {},
+    "MTL850": {},
+    "MTL851": {},
+    "MTL854": {},
+    "MTL855": {},
+    "MTL856": {},
+    "MTL860": {},
+    "MTL863": {},
+    "MTL874": {},
+    "MTL882": {},
+    "MTL883": {},
+    "MTL888": {},
+    "MTP290": {
+        "COURSE": "MTL101"
+    },
+    "MTV791": {},
+    "MinorP": {},
+    "OPD710": {},
+    "OPL700": {},
+    "OPS310": {},
+    "PTP709": {},
+    "PTP710": {},
+    "PYD411": {},
+    "PYD412": {
+        "COURSE": "PYD411"
+    },
+    "PYD414": {
+        "COURSE": "PYD411"
+    },
+    "PYD561": {},
+    "PYD562": {},
+    "PYD658": {},
+    "PYD801": {},
+    "PYD802": {},
+    "PYD851": {},
+    "PYD852": {},
+    "PYD883": {},
+    "PYL101": {},
+    "PYL102": {},
+    "PYL113": {},
+    "PYL114": {},
+    "PYL115": {},
+    "PYL121": {},
+    "PYL122": {},
+    "PYL123": {},
+    "PYL125": {},
+    "PYL127": {},
+    "PYL202": {
+        "COURSE": "PYL122"
+    },
+    "PYL204": {
+        "COURSE": "PYL113"
+    },
+    "PYL205": {},
+    "PYL206": {
+        "COURSE": "PYL121"
+    },
+    "PYL208": {},
+    "PYL209": {},
+    "PYL301": {},
+    "PYL302": {
+        "COURSE": "PYL122"
+    },
+    "PYL303": {
+        "COURSE": "PYL114"
+    },
+    "PYL304": {
+        "COURSE": "PYL114"
+    },
+    "PYL305": {
+        "COURSE": "PYL205"
+    },
+    "PYL306": {
+        "COURSE": "PYL201"
+    },
+    "PYL307": {},
+    "PYL311": {
+        "COURSE": "PYL115"
+    },
+    "PYL312": {
+        "COURSE": "PYL201"
+    },
+    "PYL313": {
+        "COURSE": "PYL115"
+    },
+    "PYL322": {
+        "COURSE": "PYL201"
+    },
+    "PYL323": {
+        "COURSE": "PYL201"
+    },
+    "PYL324": {
+        "COURSE": "PYL201"
+    },
+    "PYL331": {
+        "COURSE": "PYL122"
+    },
+    "PYL332": {
+        "COURSE": "PYL127"
+    },
+    "PYL411": {
+        "COURSE": "PYL122"
+    },
+    "PYL412": {
+        "COURSE": "PYL311"
+    },
+    "PYL413": {
+        "COURSE": "PYL115"
+    },
+    "PYL414": {
+        "COURSE": "PYL115"
+    },
+    "PYL421": {
+        "COURSE": "PYL201"
+    },
+    "PYL422": {
+        "COURSE": "PYL122"
+    },
+    "PYL423": {
+        "COURSE": "PYL201"
+    },
+    "PYL431": {
+        "COURSE": "PYL331"
+    },
+    "PYL432": {
+        "COURSE": "PYL331"
+    },
+    "PYL433": {
+        "AND": [
+            {
+                "COURSE": "PYL205"
+            },
+            {
+                "COURSE": "PYL122"
+            }
+        ]
+    },
+    "PYL434": {
+        "AND": [
+            {
+                "COURSE": "PYL205"
+            },
+            {
+                "COURSE": "PYL122"
+            }
+        ]
+    },
+    "PYL435": {
+        "AND": [
+            {
+                "COURSE": "PYL204"
+            },
+            {
+                "COURSE": "PYL202"
+            }
+        ]
+    },
+    "PYL551": {},
+    "PYL552": {},
+    "PYL553": {},
+    "PYL555": {},
+    "PYL556": {},
+    "PYL557": {},
+    "PYL558": {},
+    "PYL560": {},
+    "PYL563": {},
+    "PYL567": {},
+    "PYL569": {},
+    "PYL650": {},
+    "PYL651": {
+        "COURSE": "PYL563"
+    },
+    "PYL652": {
+        "COURSE": "PYL563"
+    },
+    "PYL653": {
+        "COURSE": "PYL563"
+    },
+    "PYL655": {
+        "COURSE": "PYL560"
+    },
+    "PYL656": {
+        "COURSE": "PYL552"
+    },
+    "PYL657": {
+        "COURSE": "PYL552"
+    },
+    "PYL658": {
+        "COURSE": "PYL657"
+    },
+    "PYL659": {},
+    "PYL701": {},
+    "PYL702": {},
+    "PYL703": {},
+    "PYL704": {},
+    "PYL705": {},
+    "PYL723": {},
+    "PYL724": {},
+    "PYL725": {},
+    "PYL726": {},
+    "PYL727": {},
+    "PYL728": {},
+    "PYL729": {},
+    "PYL741": {},
+    "PYL742": {},
+    "PYL743": {},
+    "PYL744": {},
+    "PYL747": {
+        "COURSE": "PYL560"
+    },
+    "PYL749": {},
+    "PYL751": {},
+    "PYL752": {},
+    "PYL753": {},
+    "PYL755": {},
+    "PYL756": {},
+    "PYL757": {},
+    "PYL758": {
+        "COURSE": "PYL757"
+    },
+    "PYL759": {},
+    "PYL760": {},
+    "PYL761": {},
+    "PYL762": {},
+    "PYL770": {},
+    "PYL771": {},
+    "PYL772": {},
+    "PYL780": {},
+    "PYL790": {},
+    "PYL791": {},
+    "PYL792": {},
+    "PYL793": {},
+    "PYL795": {},
+    "PYL800": {},
+    "PYL858": {},
+    "PYL879": {},
+    "PYP100": {},
+    "PYP111": {},
+    "PYP212": {
+        "COURSE": "PYL115"
+    },
+    "PYP223": {
+        "COURSE": "PYL114"
+    },
+    "PYP224": {
+        "COURSE": "PYL114"
+    },
+    "PYP561": {},
+    "PYP562": {},
+    "PYP563": {},
+    "PYP701": {},
+    "PYP702": {},
+    "PYP761": {},
+    "PYP762": {},
+    "PYP763": {
+        "COURSE": "PYL756"
+    },
+    "PYP764": {},
+    "PYS300": {},
+    "PYS855": {},
+    "PYV418": {
+        "COURSE": "PYL115"
+    },
+    "PYV419": {
+        "COURSE": "PYL115"
+    },
+    "PYV428": {
+        "COURSE": "PYL201"
+    },
+    "PYV429": {},
+    "PYV438": {
+        "COURSE": "PYL122"
+    },
+    "PYV439": {
+        "COURSE": "PYL122"
+    },
+    "PYV881": {},
+    "PYV882": {},
+    "RDD750": {},
+    "RDL700": {},
+    "RDL701": {},
+    "RDL702": {},
+    "RDL705": {},
+    "RDL710": {},
+    "RDL722": {},
+    "RDL724": {},
+    "RDL725": {},
+    "RDL726": {},
+    "RDL727": {},
+    "RDL728": {},
+    "RDL730": {},
+    "RDL735": {},
+    "RDL740": {},
+    "RDL760": {},
+    "RDL761": {},
+    "RDL770": {},
+    "RDL771": {},
+    "RDL780": {},
+    "RDL801": {},
+    "RDL803": {},
+    "RDL807": {},
+    "RDP750": {},
+    "SBC795": {
+        "COURSE": "EC75"
+    },
+    "SBC796": {
+        "COURSE": "EC75"
+    },
+    "SBD301": {
+        "AND": [
+            {
+                "COURSE": "SBL100"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "SBD895": {},
+    "SBL100": {},
+    "SBL201": {
+        "COURSE": "SBL100"
+    },
+    "SBL701": {
+        "COURSE": "EC75"
+    },
+    "SBL702": {
+        "COURSE": "EC75"
+    },
+    "SBL703": {
+        "COURSE": "EC75"
+    },
+    "SBL704": {
+        "COURSE": "EC75"
+    },
+    "SBL705": {
+        "COURSE": "EC75"
+    },
+    "SBL714": {
+        "COURSE": "EC75"
+    },
+    "SBL801": {
+        "COURSE": "EC100"
+    },
+    "SBL802": {
+        "COURSE": "EC100"
+    },
+    "SBP200": {
+        "COURSE": "SBL100"
+    },
+    "SBP810": {
+        "COURSE": "EC75"
+    },
+    "SBS800": {
+        "COURSE": "EC100"
+    },
+    "SBV750": {
+        "COURSE": "EC75"
+    },
+    "SBV881": {
+        "COURSE": "EC100"
+    },
+    "SBV882": {
+        "COURSE": "EC100"
+    },
+    "SBV883": {
+        "COURSE": "EC100"
+    },
+    "SBV884": {
+        "COURSE": "EC100"
+    },
+    "SBV885": {
+        "COURSE": "EC100"
+    },
+    "SBV886": {
+        "COURSE": "EC100"
+    },
+    "SBV887": {
+        "COURSE": "EC100"
+    },
+    "SBV888": {
+        "COURSE": "EC100"
+    },
+    "SBV889": {
+        "COURSE": "EC100"
+    },
+    "SBV890": {
+        "COURSE": "EC100"
+    },
+    "SBV891": {
+        "COURSE": "EC100"
+    },
+    "SBV894": {
+        "AND": [
+            {
+                "COURSE": "SBL100"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "SID880": {},
+    "SID890": {},
+    "SIL761": {},
+    "SIL763": {},
+    "SIL765": {},
+    "SIL769": {},
+    "SIL801": {},
+    "SIL802": {},
+    "SIL861": {},
+    "SIV813": {},
+    "SIV851": {},
+    "SIV861": {},
+    "SIV864": {},
+    "SIV871": {},
+    "SIV889": {},
+    "SIV895": {},
+    "SPD881": {},
+    "SPL701": {},
+    "SPL702": {},
+    "SPL703": {},
+    "SPL704": {},
+    "SPL705": {},
+    "SPL706": {},
+    "SPL707": {},
+    "SPL708": {},
+    "SPL709": {},
+    "SPL711": {},
+    "SPL712": {},
+    "SPL720": {},
+    "SPL721": {},
+    "SPL722": {},
+    "SPL730": {},
+    "SPL740": {},
+    "SPL741": {},
+    "SPL750": {},
+    "SPL810": {},
+    "SPV399": {},
+    "SPV791": {},
+    "SPV792": {},
+    "SPV793": {},
+    "SPV794": {},
+    "SPV795": {},
+    "SPV796": {},
+    "SPV797": {},
+    "SPV798": {},
+    "SPV799": {},
+    "TRL700": {},
+    "TRL701": {},
+    "TRL702": {},
+    "TRV751": {},
+    "TRV754": {},
+    "TRV75X": {},
+    "TXD801": {},
+    "TXD802": {},
+    "TXD803": {
+        "COURSE": "TXD801"
+    },
+    "TXD804": {
+        "COURSE": "TXD802"
+    },
+    "TXD805": {},
+    "TXD806": {
+        "COURSE": "TXD805"
+    },
+    "TXD809": {},
+    "TXL111": {},
+    "TXL130": {},
+    "TXL321": {
+        "COURSE": "TXL222"
+    },
+    "TXL331": {
+        "COURSE": "TXL232"
+    },
+    "TXL361": {
+        "AND": [
+            {
+                "COURSE": "TXL222"
+            },
+            {
+                "COURSE": "TXL232"
+            }
+        ]
+    },
+    "TXL371": {
+        "AND": [
+            {
+                "COURSE": "TXL222"
+            },
+            {
+                "COURSE": "TXL232"
+            }
+        ]
+    },
+    "TXL372": {
+        "AND": [
+            {
+                "COURSE": "TXL222"
+            },
+            {
+                "COURSE": "TXL232"
+            }
+        ]
+    },
+    "TXL381": {
+        "COURSE": "EC75"
+    },
+    "TXL382": {
+        "COURSE": "EC75"
+    },
+    "TXL601": {},
+    "TXL700": {
+        "AND": [
+            {
+                "COURSE": "TXL232"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "TXL710": {
+        "AND": [
+            {
+                "COURSE": "TXL212"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "TXL711": {},
+    "TXL712": {},
+    "TXL713": {},
+    "TXL714": {},
+    "TXL721": {},
+    "TXL722": {},
+    "TXL725": {},
+    "TXL731": {},
+    "TXL732": {},
+    "TXL734": {
+        "AND": [
+            {
+                "COURSE": "TXL232"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "TXL740": {
+        "COURSE": "EC75"
+    },
+    "TXL747": {
+        "COURSE": "EC75"
+    },
+    "TXL748": {},
+    "TXL749": {
+        "COURSE": "EC75"
+    },
+    "TXL750": {
+        "AND": [
+            {
+                "COURSE": "TXL361"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "TXL752": {
+        "AND": [
+            {
+                "COURSE": "TXL241"
+            },
+            {
+                "COURSE": "TXL242"
+            }
+        ]
+    },
+    "TXL753": {
+        "COURSE": "EC75"
+    },
+    "TXL754": {
+        "COURSE": "EC75"
+    },
+    "TXL755": {
+        "AND": [
+            {
+                "COURSE": "TXL241"
+            },
+            {
+                "COURSE": "TXL242"
+            }
+        ]
+    },
+    "TXL756": {
+        "COURSE": "EC75"
+    },
+    "TXL771": {},
+    "TXL772": {},
+    "TXL773": {},
+    "TXL783": {},
+    "TXL784": {},
+    "TXL807": {},
+    "TXP711": {},
+    "TXP712": {},
+    "TXP716": {},
+    "TXP725": {},
+    "TXP761": {},
+    "TXR752": {
+        "COURSE": "EC75"
+    },
+    "TXS301": {
+        "COURSE": "EC65"
+    },
+    "TXS751": {
+        "COURSE": "TXT800"
+    },
+    "TXS805": {},
+    "TXS806": {},
+    "TXV704": {
+        "AND": [
+            {
+                "COURSE": "TXL222"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "TXV705": {
+        "AND": [
+            {
+                "COURSE": "TXL232"
+            },
+            {
+                "COURSE": "EC75"
+            }
+        ]
+    },
+    "VED750": {},
+    "VEL700": {},
+    "VEL710": {},
+    "VEV731": {},
+    "VEV732": {},
+    "VEV733": {},
+    "VEV734": {},
+    "VEV735": {},
+    "VEV736": {},
+    "VEV737": {},
+    "VEV738": {},
+    "VEV739": {},
+    "VEV740": {},
+    "VEV741": {}
+}

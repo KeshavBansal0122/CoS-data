@@ -1,0 +1,200 @@
+Course: MCL826
+Pre: APL106 and MCL242 or their equivalents for UG students only
+
+---
+Course: MCP331
+Pre: for ME1: MCL131, MCL231 for ME2: MCL136
+
+---
+Course: MCV390
+Pre: Thermodynamics, Heat Transfer, Energy Conversion
+
+---
+Course: MDL802
+Pre: MSL707 and 708 for MBA students, MSL302 for B.Tech. Students
+
+---
+Course: MDL803
+Pre: MSL708 for MBA, MSL302 for B. Tech students
+
+---
+Course: MDL806
+Pre: MSL708 for MBA, MSL302 for B.Tech Students
+
+---
+Course: MLL730
+Pre: MLL702 for PG, MLL103 for UG
+
+---
+Course: MLL734
+Pre: MLL701  for PG, MLL102  for UG
+
+---
+Course: MLL738
+Pre: PYL100, MLL211  for UG
+
+---
+Course: MLL744
+Pre: for UG: APL102 and for PG: Basics of phase transformations, thermodynamics and kinetics
+
+---
+Course: MLL748
+Pre: Introductory courses on materials, such as CLL141, MLL100; MLL702, CLL732, CLL252, MLL713, or some
+
+---
+Course: MLL750
+Pre: MLL100 or some equivalent basic course in materials engineering or MLL101, MLL202, APL108, APL104 and MLL251 (for UG programme), CLL732, CML681, CML729, ELL211, PYL114 or some equivalent courses on crystal structures and thermodynamics.
+
+---
+Course: MLL752
+Pre: MLL101, MLL202, MLL251, PYL114 or some equivalent course in crystallography, APL104/APL105, APL108 is preferred for students from other departments, PYL701 or some introductory course in materials engineering for PG students.
+
+---
+Course: MLL760
+Pre: UG students: MLL213 or MLL212
+
+---
+Course: MSL890
+Pre: MSL708 for MBA, MSL302 for B. Tech students
+
+---
+Course: MTL734
+Pre: MTL106 (Probability and Stochastic Process)/ MTL108 (Introduction to Statistics)/ MTL601 (Probability and Statistics)
+
+---
+Course: MTL736
+Pre: MTLI22 or MTL506
+
+---
+Course: MTL781
+Pre: MTL107/MTL509 and MTL411/MTL602
+
+---
+Course: MTL799
+Pre: 90 Credits at the UG level
+
+---
+Course: PYL321
+Pre: PYL201 (Only for students opting for Minor Area)
+
+---
+Course: PYL707
+Pre: PYL563 (for MSc), PYL114 (for UG)
+
+---
+Course: PYL711
+Pre: PYL127 & PYL121 OR PYL551 & PYL553
+
+---
+Course: PYL745
+Pre: PYL558/PYL202/equivalent
+
+---
+Course: PYL746
+Pre: PYL558/PYL202/equivalent
+
+---
+Course: PYL750
+Pre: Solid State Physics and Quantum Mechanics. PYL125 or PYL563  and PYL122 or PYL555  Berry Phase, Hall Conductance and Chern number, Time Reversal Symmetry, Kramers Theorem, Concept of Edge modes, The bulk- edge correspondence, Graphene Edge Modes, Dirac Fermions, Stability of Dirac Points with Inversion and Time Reversal, Haldane's Graphene Model, Twisted Angle Graphene, Topological Insulators, Role of Spin-orbit coupling, The Kane and Mele Model, Z2 Invariants, Experimental Consequences of the Z2 Topological Invariant, 3D and
+
+---
+Course: RDL745
+Pre: Minimum earned Credits as per 700 level course requirements
+
+---
+Course: SBL706
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL707
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL708
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL709
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL710
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL711
+Pre: Pre-requisite(s): SBL100 and SBL201 () and EC 75
+
+---
+Course: SBL712
+Pre: SBL100 and either SBL201 or BEL204 or BEL311 and EC 75
+
+---
+Course: SBL713
+Pre: SBL100 and either BEL204 or BEL311 and EC 75
+
+---
+Course: SBL720
+Pre: As per IITD norms for 700 level courses EC 75 and BEL110 or CYL110 or CYL120 or Equivalent Fundamentals of Chromosomes and Cells, Fundamentals of Gene
+
+---
+Course: SBL721
+Pre: Pre-requisite(s): As per IITD norms for 700 level courses EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL722
+Pre: EC 75 and BEL110 or CYL110 or CYL120 or Equivalent
+
+---
+Course: SBL723
+Pre: EC 75 and SBL100/BBL131/CML101/ Equivalent
+
+---
+Course: SBL724
+Pre: EC 75 with SBL100 or Equivalent
+
+---
+Course: SBL725
+Pre: Pre-requisite(s): EC 75 and SBL100 for UG students
+
+---
+Course: SBL726
+Pre: Pre-requisite(s): EC 75 and SBL100 for UG students
+
+---
+Course: SBL727
+Pre: EC 75 and SBL100 for UG students
+
+---
+Course: SBL728
+Pre: Pre-requisite(s): SBL100 or BBL110 or BBL131 
+
+---
+Course: SBL729
+Pre: SBL100 and EC75 for UG students
+
+---
+Course: SBL750
+Pre: Pre-requisite(s): SBL100 and SBL201 () and EC 75
+
+---
+Course: SBL751
+Pre: Pre-requisite(s): SBL100 and SBL201 () and EC 75
+
+---
+Course: SBV892
+Pre: EC 75 with SBL100/ BBL131
+
+---
+Course: SBV893
+Pre: Pre-requisite(s): EC 75 with SBL100 or Equivalent
+
+---
+Course: SBV895
+Pre: EC 75 with SBL100 or Equivalent
+
+---
+Course: SBV896
+Pre: Pre-requisite(s): SBL100/BBL110/BBL131/equivalent
+
+---

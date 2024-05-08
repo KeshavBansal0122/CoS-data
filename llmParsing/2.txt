@@ -1,0 +1,200 @@
+Course: CVL381
+Pre: CVL281 and CVL282 Input studies.
+
+---
+Course: CVL382
+Pre: CVL282 or EC 75
+
+---
+Course: CVL384
+Pre: CVL282 or EC 75
+
+---
+Course: CVL461
+Pre: CVL261 or Instructor’s permission
+
+---
+Course: CVL740
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL741
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL742
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL743
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL744
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL745
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL746
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL747
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL750
+Pre: M.Tech: Nil; B.Tech: Instructor's permission
+
+---
+Course: CVL758
+Pre: UG/Dual- 120 Credits
+
+---
+Course: CVL840
+Pre: M.Tech: CVL741; B.Tech: Instructor's permission
+
+---
+Course: CVL841
+Pre: M.Tech: CVL741; B.Tech: Instructor's permission
+
+---
+Course: CVL842
+Pre: M.Tech: CVL741, CVL742; B.Tech: CVL261 and one TE elective
+
+---
+Course: CVL844
+Pre: M.Tech: CVL740; B.Tech: Instructor's permission
+
+---
+Course: CVL845
+Pre: M.Tech: CVL740; B.Tech: Instructor's permission
+
+---
+Course: CVL846
+Pre: M.Tech: CVL741 and CVL742; B.Tech: Instructor's permission
+
+---
+Course: CVL847
+Pre: M.Tech: CVL741; B.Tech: Instructor's permission
+
+---
+Course: CVL848
+Pre: CVL741 & CVL748 or Instructors' permission
+
+---
+Course: CVL850
+Pre: M.Tech: CVL742 else Instructor's permission (including B.Tech)
+
+---
+Course: CVL851
+Pre: CVL740 or CVL741 or CVL742 or Instructor's permission
+
+---
+Course: CVP121
+Pre: CVL121 or concurrent with CVL121
+
+---
+Course: CVP222
+Pre: CVL222 or concurrent with CVL222
+
+---
+Course: CVP242
+Pre: CVL242 or Concurrent with CVL242
+
+---
+Course: CVP261
+Pre: CVL261 or Concurrent with CVL261
+
+---
+Course: CVP281
+Pre: CVL281 or Concurrent with CVL281 Experiments on Open Channel Flow Hydraulics, Boundary Layer Theory, Pipe flow, Sediment transport.
+
+---
+Course: CVP321
+Pre: CVL321 or Concurrent with CVL321
+
+---
+Course: CVP441
+Pre: CVL243, CVL342 Part-I Concrete Structures
+
+---
+Course: CVP810
+Pre: Rock Mechanics Lab-I CVP710
+
+---
+Course: CVS754
+Pre: Instructor's permission
+
+---
+Course: DDD310
+Pre: students should have completed core design courses up to 4th semester successfully.
+
+---
+Course: DDL215
+Pre: Combinations of Courses: e.g. (XYZ123 & XYW214) / XYZ234
+
+---
+Course: DDL722
+Pre: 30 Credits
+
+---
+Course: DDL725
+Pre: DDP731 or (DDL111, DDL116, DDL125, and DDL126)
+
+---
+Course: DDL733
+Pre: Prefer students to have taken Materials and Prototyping and Prototyping in IoT courses in Department of Design or similar courses from other departments.
+
+---
+Course: DDL752
+Pre: Materials and Prototyping, Prototyping in IoT, Qualitative and Quantitative methods in design courses from Department of Design  courses from other departments.
+
+---
+Course: ELL302
+Pre: ELL231 (EE3) / ELL211 (EE1)
+
+---
+Course: ELL304
+Pre: ELL101 and ELL202 and (ELL211 or ELL231)
+
+---
+Course: ELL455
+Pre: to be decided by instructor
+
+---
+Course: ELL456
+Pre: to be decided by the instructor
+
+---
+Course: ELL459
+Pre: to be decided by the instructor
+
+---
+Course: ELL460
+Pre: to be decided by the instructor
+
+---
+Course: ELL708
+Pre: to be decided by the instructor
+
+---
+Course: ELL721
+Pre: Only for MBA students of Bharti School, Audit for others
+
+---
+Course: ELL737
+Pre: ELL218, ELL111, or ELL732 
+
+---
+Course: ELL739
+Pre: ELL732(PG)
+
+---
+Course: ELL740
+Pre: Any course on MOS devices or Microelectronics or Physical Electronics or VLSI technology
+
+---
