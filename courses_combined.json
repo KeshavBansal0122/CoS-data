@@ -21209,7 +21209,7 @@
   },
   "MLL741": {
     "code": "MLL741",
-    "name": "Biodegradable Polymeric Materials",
+    "name": "MLL741 Biodegradable Polymeric Materials",
     "credits": "3 (3-0-0)",
     "department": "Department of Materials Science and Engineering",
     "pre": "EC75",
@@ -23915,7 +23915,7 @@
   },
   "MTL730": {
     "code": "MTL730",
-    "name": "Cryptography",
+    "name": "MTL730 Cryptography",
     "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",
@@ -24223,7 +24223,7 @@
   },
   "MTL768": {
     "code": "MTL768",
-    "name": "Graph Theory",
+    "name": "MTL768 Graph Theory",
     "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "COL106",
@@ -24443,7 +24443,7 @@
   },
   "MTL856": {
     "code": "MTL856",
-    "name": "Lie Algebras",
+    "name": "MTL856 Lie Algebras",
     "credits": "3 (3-0-0)",
     "department": "Department of Mathematics",
     "pre": "",

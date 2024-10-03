@@ -40,12 +40,17 @@ def gen(course) -> str:
     
     str += '''\nclassDef empty height:17px, fill:transparent, stroke:transparent;
 classDef trueEmpty height:0px, width:0px;'''  
+    resetID()
     return str
     
 def newID() -> int:
     global subGraphID
     subGraphID += 1
-    return subGraphID  
+    return subGraphID
+
+def resetID():
+    global subGraphID
+    subGraphID = 0
 
 def genAndTree(head, ands, id) -> set[str]:
     graph = set()
